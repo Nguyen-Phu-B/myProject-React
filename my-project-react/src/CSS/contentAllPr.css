@@ -1,4 +1,5 @@
-.content {
+#renderAll,
+#ttAll {
     margin-left: auto;
     margin-right: auto;
     max-width: 1200px;
@@ -11,22 +12,12 @@
     margin-bottom: 22px;
 }
 
-.box-header a {
-    text-decoration: none;
-    color: #000;
-    text-transform: uppercase;
-}
-
 .box-booth {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 0 -10px;
     margin-bottom: 80px;
-}
-
-.box-booth .box-product:nth-child(n+9) {
-    display: none;
 }
 
 .box-product {

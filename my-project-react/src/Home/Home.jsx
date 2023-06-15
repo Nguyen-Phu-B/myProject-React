@@ -7,7 +7,11 @@ const Home = () => {
         <>
             <Header />
             <Slider />
-            <Content tittleContent={"iPhone"} />
+            <Content tittleContent={"iPhone"} dataName={"iphone"} />
+            <Content tittleContent={"iPad"} dataName={"ipad"} />
+            <Content tittleContent={"MacBook"} dataName={"mac"} />
+            <Content tittleContent={"Apple Watch"} dataName={"apw"} />
+            <Content tittleContent={"Phụ Kiện"} dataName={"phukien"} />
             <Footer />
         </>
     );
