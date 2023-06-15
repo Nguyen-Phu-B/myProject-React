@@ -1,0 +1,3362 @@
+{
+    "iphone" : [
+        {
+            "retailPrice": 23389000,
+            "id": "4811b23e-4d0f-4c06-9729-5dfdbbb307a7",
+            "name": "iPhone 14 Pro 128GB Chính Hãng VN/A",
+            "brand": "Apple",
+            "uri": "iphone-14-pro-128gb-chinh-hang-vna-1662623910",
+            "price": 27989000,
+            "salePrice": 23389000,
+            "publish": true,
+            "isInstalment": true,
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675236331324-600-600-ip14prm-new-3.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1671182262278-600x600-tet-ip14pr-1.jpg",
+            "ratingScore": 4.8,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 2,
+              "5": 10,
+              "total": 12
+            },
+            "viewCount": 6810,
+            "CategoryId": "fbb9db23-8244-49e5-b541-a32030532eeb",
+            "overlayPromotion": {
+              "id": "3ee29060-c9c6-40b1-add0-fae31d6e6b93",
+              "name": "Hot Deal Today Only",
+              "icon": "https://cdn.dienthoaigiakho.vn/photos/1686211069469-Hot-Deal-Today-Badge.png"
+            },
+            "pOptions": [
+              {
+                "retailPrice": 23389000,
+                "stock": 0,
+                "id": "c623be1f-a0e5-4a21-ba53-2089c615bc23",
+                "name": "Đã Kích Hoạt",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675236331324-600-600-ip14prm-new-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1665484806565-14P-LL_A.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089276-600x600-ip14p-pu-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089272-600x600-ip14p-pu.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089275-600x600-ip14p-pu-1.jpg"
+                ],
+                "salePrice": 23389000
+              },
+              {
+                "retailPrice": 24789000,
+                "stock": 0,
+                "id": "4ac23c20-d601-4812-b513-6a1132406a16",
+                "name": "Bạc",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675236331323-600-600-ip14prm-new-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1665484806563-14P-LL_A-copy-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624093530-600x600-ip14p-wh-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624093529-600x600-ip14p-wh.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624093530-600x600-ip14p-wh-1.jpg"
+                ],
+                "salePrice": 24789000
+              },
+              {
+                "retailPrice": 24389000,
+                "stock": 4,
+                "id": "cf7d7d62-0883-4738-8323-67fff2e76a45",
+                "name": "Vàng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675236331323-600-600-ip14prm-new-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1665484806563-14P-LL_A-copy-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089271-600x600-ip14p-go-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089267-600x600-ip14p-go.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089270-600x600-ip14p-go-1.jpg"
+                ],
+                "salePrice": 24389000
+              },
+              {
+                "retailPrice": 24589000,
+                "stock": 7,
+                "id": "e51cb96e-1505-442a-a814-18e64f59e0da",
+                "name": "Tím",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675236331324-600-600-ip14prm-new-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1665484806565-14P-LL_A.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089276-600x600-ip14p-pu-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089272-600x600-ip14p-pu.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662624089275-600x600-ip14p-pu-1.jpg"
+                ],
+                "salePrice": 24589000
+              },
+              {
+                "retailPrice": 24589000,
+                "stock": 5,
+                "id": "f2e13b4d-3289-4df9-935f-a4c6410b5db2",
+                "name": "Đen",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675236331322-600-600-ip14prm-new.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1665484806564-14P-LL_A-copy.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662605939962-600x600-ip14p-bm-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662605939961-600x600-ip14p-bm.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662605939962-600x600-ip14p-bm-1.jpg"
+                ],
+                "salePrice": 24589000
+              }
+            ],
+            "preferences": [
+              {
+                "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-08T08:07:39.477Z",
+                  "updatedAt": "2022-09-08T08:07:39.477Z",
+                  "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                  "ProductId": "4811b23e-4d0f-4c06-9729-5dfdbbb307a7"
+                }
+              },
+              {
+                "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "name": "45 ngày 1 đổi 1, miễn 100% phí",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-08T08:07:39.477Z",
+                  "updatedAt": "2022-09-08T08:07:39.477Z",
+                  "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                  "ProductId": "4811b23e-4d0f-4c06-9729-5dfdbbb307a7"
+                }
+              },
+              {
+                "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "name": "Freeship - Giao nhanh từ 2h",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-08T08:07:39.477Z",
+                  "updatedAt": "2022-09-08T08:07:39.477Z",
+                  "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                  "ProductId": "4811b23e-4d0f-4c06-9729-5dfdbbb307a7"
+                }
+              }
+            ]
+        },
+        {
+        "retailPrice": 25289000,
+        "id": "8970459c-0d4b-4515-aeed-873f4c3eddda",
+        "name": "iPhone 14 Pro Max 128GB Chính Hãng VN/A",
+        "brand": "Apple",
+        "uri": "iphone-14-pro-max-128gb-chinh-hang-vna-1662624960",
+        "price": 29989000,
+        "salePrice": 25289000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675236331324-600-600-ip14prm-new-3.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1671182262279-600x600-tet-ip14pr-2.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 57,
+            "total": 57
+        },
+        "viewCount": 16377,
+        "CategoryId": "fbb9db23-8244-49e5-b541-a32030532eeb",
+        "overlayPromotion": {
+            "id": "3ee29060-c9c6-40b1-add0-fae31d6e6b93",
+            "name": "Hot Deal Today Only",
+            "icon": "https://cdn.dienthoaigiakho.vn/photos/1686211069469-Hot-Deal-Today-Badge.png"
+        },
+        "pOptions": [
+            {
+            "retailPrice": 25289000,
+            "stock": 0,
+            "id": "a030261b-35e6-454f-91dd-0a8196226dad",
+            "name": "Đã Kích Hoạt",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675236331324-600-600-ip14prm-new-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1665484806565-14P-LL_A.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089276-600x600-ip14p-pu-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089272-600x600-ip14p-pu.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089275-600x600-ip14p-pu-1.jpg"
+            ],
+            "salePrice": 25289000
+            },
+            {
+            "retailPrice": 26689000,
+            "stock": 9,
+            "id": "8448bed1-4977-4bf3-8cd2-359a4e04a8d9",
+            "name": "Vàng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675236331323-600-600-ip14prm-new-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1665484806563-14P-LL_A-copy-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089271-600x600-ip14p-go-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089267-600x600-ip14p-go.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089270-600x600-ip14p-go-1.jpg"
+            ],
+            "salePrice": 26689000
+            },
+            {
+            "retailPrice": 26589000,
+            "stock": 7,
+            "id": "7b39f932-9d66-4d0e-acc4-5990b1f78c74",
+            "name": "Tím",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675236331324-600-600-ip14prm-new-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1665484806565-14P-LL_A.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089276-600x600-ip14p-pu-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089272-600x600-ip14p-pu.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624089275-600x600-ip14p-pu-1.jpg"
+            ],
+            "salePrice": 26589000
+            },
+            {
+            "retailPrice": 26289000,
+            "stock": 5,
+            "id": "c429a622-b20b-4c9a-be87-a9efb1902781",
+            "name": "Đen",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675236331322-600-600-ip14prm-new.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1665484806564-14P-LL_A-copy.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662605939962-600x600-ip14p-bm-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662605939961-600x600-ip14p-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662605939962-600x600-ip14p-bm-1.jpg"
+            ],
+            "salePrice": 26289000
+            },
+            {
+            "retailPrice": 26689000,
+            "stock": 7,
+            "id": "9c842efe-f59a-4c81-9157-c1baed3ccf1d",
+            "name": "Bạc",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675236331323-600-600-ip14prm-new-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1665484806563-14P-LL_A-copy-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624093530-600x600-ip14p-wh-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624093529-600x600-ip14p-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662624093530-600x600-ip14p-wh-1.jpg"
+            ],
+            "salePrice": 26689000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-08T08:21:06.603Z",
+                "updatedAt": "2022-09-08T08:21:06.603Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "8970459c-0d4b-4515-aeed-873f4c3eddda"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-08T08:21:06.603Z",
+                "updatedAt": "2022-09-08T08:21:06.603Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "8970459c-0d4b-4515-aeed-873f4c3eddda"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-08T08:21:06.603Z",
+                "updatedAt": "2022-09-08T08:21:06.603Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "8970459c-0d4b-4515-aeed-873f4c3eddda"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 21489000,
+        "id": "61a8791e-9410-426c-95d8-37cef799beb5",
+        "name": "iPhone 14 Plus 128GB Vàng Chính Hãng VN/A",
+        "brand": "Apple",
+        "uri": "iphone-14-plus-128gb-vang-chinh-hang-vna-1678865302",
+        "price": 26989000,
+        "salePrice": 21489000,
+        "publish": false,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1678941829571-14p-ZPA-Ye.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1678862182750-ip14pl-gold-2.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "viewCount": 690,
+        "CategoryId": "fbb9db23-8244-49e5-b541-a32030532eeb",
+        "overlayPromotion": {
+            "id": "6b21409f-2c58-4b3d-8026-1fe905ace69e",
+            "name": "HANG MOI VE",
+            "icon": "https://cdn.dienthoaigiakho.vn/photos/1622083179461-hangmoive.png"
+        },
+        "pOptions": [
+            {
+            "retailPrice": 21489000,
+            "stock": 2,
+            "id": "0e7e5720-8685-48bf-8887-6e2accc187fe",
+            "name": "Vàng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1678941829571-14p-ZPA-Ye.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1678862182750-ip14pl-gold-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1678862182750-ip14pl-gold-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1678862182749-ip14pl-gold.jpg"
+            ],
+            "salePrice": 21489000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2023-03-15T07:45:17.079Z",
+                "updatedAt": "2023-03-15T07:45:17.079Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "61a8791e-9410-426c-95d8-37cef799beb5"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2023-03-15T07:45:17.079Z",
+                "updatedAt": "2023-03-15T07:45:17.079Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "61a8791e-9410-426c-95d8-37cef799beb5"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2023-03-15T07:45:17.079Z",
+                "updatedAt": "2023-03-15T07:45:17.079Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "61a8791e-9410-426c-95d8-37cef799beb5"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 14989000,
+        "id": "793b7b35-70e9-450b-bbcc-14357f391b24",
+        "name": "iPhone 13 128GB Chính Hãng VN/A",
+        "brand": "Apple",
+        "uri": "iphone-13-128gb-chinh-hang-vna-moi-nguyen-seal-chua-kich-hoat-1631702958",
+        "price": 18989000,
+        "salePrice": 14989000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675239264852-600x600-ip13-new-1.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1654757730198-kvip13-vna-1-min.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 21,
+            "total": 22
+        },
+        "viewCount": 17742,
+        "CategoryId": "fbb9db23-8244-49e5-b541-a32030532eeb",
+        "overlayPromotion": {
+            "id": "3ee29060-c9c6-40b1-add0-fae31d6e6b93",
+            "name": "Hot Deal Today Only",
+            "icon": "https://cdn.dienthoaigiakho.vn/photos/1686211069469-Hot-Deal-Today-Badge.png"
+        },
+        "pOptions": [
+            {
+            "retailPrice": 14989000,
+            "stock": 0,
+            "id": "08f02ca2-4f29-4ba8-8392-e4ba5b688d84",
+            "name": "Đã Kích Hoạt",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675239264852-600x600-ip13-new-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217404781-ip13-ro-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399887-ip13-ro2-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399888-ip13-ro3-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217404780-ip13-ro4-min.jpg"
+            ],
+            "salePrice": 14989000
+            },
+            {
+            "retailPrice": 15989000,
+            "stock": 0,
+            "id": "c918cd38-2c61-42a7-a7f5-77400cb36a73",
+            "name": "Đỏ",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675239264853-600x600-ip13-new-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399882-ip13-re-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399870-ip13-re2-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399876-ip13-re3-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399879-ip13-re4-min.jpg"
+            ],
+            "salePrice": 15989000
+            },
+            {
+            "retailPrice": 16489000,
+            "stock": 3,
+            "id": "93171eb5-708c-457a-a389-79cb02322be0",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675239264851-600x600-ip13-new.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217404801-ip13-wh-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217404785-ip13-wh2-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217404788-ip13-wh3-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217404791-ip13-wh4-min.jpg"
+            ],
+            "salePrice": 16489000
+            },
+            {
+            "retailPrice": 16389000,
+            "stock": 6,
+            "id": "7a8c38e9-46a1-4ea9-a3ac-44b01088fdfd",
+            "name": "Hồng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675239264852-600x600-ip13-new-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217404781-ip13-ro-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399887-ip13-ro2-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399888-ip13-ro3-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217404780-ip13-ro4-min.jpg"
+            ],
+            "salePrice": 16389000
+            },
+            {
+            "retailPrice": 16489000,
+            "stock": 0,
+            "id": "93fadb81-2ed6-44ca-a60b-f81998dd9f66",
+            "name": "Xanh dương",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675239264853-600x600-ip13-new-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217395733-ip13-bl-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217395673-ip13-bl2-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217395725-ip13-bl3-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217395728-ip13-bl4-min.jpg"
+            ],
+            "salePrice": 16489000
+            },
+            {
+            "retailPrice": 16289000,
+            "stock": 0,
+            "id": "8615946f-3617-4da1-ba2e-a6875bedba92",
+            "name": "Đen",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675239264854-600x600-ip13-new-4.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217399869-ip13-bm-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217395735-ip13-bm2-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217395738-ip13-bm3-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634217395743-ip13-bm4-min.jpg"
+            ],
+            "salePrice": 16289000
+            },
+            {
+            "retailPrice": 16489000,
+            "stock": 0,
+            "id": "9823636b-8e9c-4ec6-9fe6-26194bc2d80d",
+            "name": "Xanh lá",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675239264855-600x600-ip13-new-5.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646809775016-ip13-gr.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646809775022-ip13-gr4.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646809775021-ip13-gr3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646809775019-ip13-gr2.jpg"
+            ],
+            "salePrice": 16489000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2021-11-16T04:28:27.078Z",
+                "updatedAt": "2021-11-16T04:28:27.078Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "793b7b35-70e9-450b-bbcc-14357f391b24"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-08-30T09:48:40.899Z",
+                "updatedAt": "2022-08-30T09:48:40.899Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "793b7b35-70e9-450b-bbcc-14357f391b24"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2021-11-16T04:28:27.078Z",
+                "updatedAt": "2021-11-16T04:28:27.078Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "793b7b35-70e9-450b-bbcc-14357f391b24"
+            }
+            }
+        ]
+        },
+        {
+            "retailPrice": 9789000,
+            "id": "31eb2cab-dd04-4f7c-8761-e2861d9f5c44",
+            "name": "iPhone 11 64GB Chính Hãng VN/A",
+            "brand": "Apple",
+            "uri": "iphone-11-64gb-vna-moi-nguyen-seal-chua-kich-hoat-1593602652",
+            "price": 14989000,
+            "salePrice": 9789000,
+            "publish": true,
+            "isInstalment": true,
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675243593955-600x600-ip11-new-2.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1654761900486-kvip11-vna-3-min.jpg",
+            "ratingScore": 4.8,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 1,
+              "5": 27,
+              "total": 28
+            },
+            "viewCount": 34864,
+            "CategoryId": "fbb9db23-8244-49e5-b541-a32030532eeb",
+            "overlayPromotion": null,
+            "pOptions": [
+              {
+                "retailPrice": 10289000,
+                "stock": 0,
+                "id": "a3a832fc-6147-4ac8-b373-8db874fa8a72",
+                "name": "Tím",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675243593954-600x600-ip11-new.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1636719658602-kvip11resizeimg-purple-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727019609-ip11-pu1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727019609-ip11-pu.jpg"
+                ],
+                "salePrice": 10289000
+              },
+              {
+                "retailPrice": 10389000,
+                "stock": 0,
+                "id": "7ec34552-753e-40dd-8640-7175c0a51ca6",
+                "name": "Xanh lá",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675243593956-600x600-ip11-new-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1636719658601-kvip11resizeimg-green-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727014101-ip11-ge.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727014101-ip11-ge1.jpg"
+                ],
+                "salePrice": 10389000
+              },
+              {
+                "retailPrice": 9789000,
+                "stock": 0,
+                "id": "954d9bcd-9d26-4056-8bc7-73713706856f",
+                "name": "Vàng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675243593955-600x600-ip11-new-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1636719658606-kvip11resizeimg-ye-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727035632-ip11-ye1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727035631-ip11-ye.jpg"
+                ],
+                "salePrice": 9789000
+              },
+              {
+                "retailPrice": 10189000,
+                "stock": 5,
+                "id": "0bde15d6-23d2-45db-9eb2-9915e365782e",
+                "name": "Đen",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675243593954-600x600-ip11-new-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1636719658599-kvip11resizeimg-black-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727009502-ip11-bm1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727009502-ip11-bm.jpg"
+                ],
+                "salePrice": 10189000
+              },
+              {
+                "retailPrice": 10189000,
+                "stock": 6,
+                "id": "cff1fabb-4665-4978-bd54-84ecab053657",
+                "name": "Trắng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675243593957-600x600-ip11-new-4.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1636719658605-kvip11resizeimg-wh-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727029657-ip11-wh.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727029657-ip11-wh1.jpg"
+                ],
+                "salePrice": 10189000
+              },
+              {
+                "retailPrice": 10289000,
+                "stock": 0,
+                "id": "3d53c77b-11f6-4392-ab06-036cf2ca2499",
+                "name": "Đỏ",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675243593958-600x600-ip11-new-5.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1636719658605-kvip11resizeimg-re-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727024896-ip11-re.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1677727024896-ip11-re1.jpg"
+                ],
+                "salePrice": 10289000
+              }
+            ],
+            "preferences": [
+              {
+                "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2021-11-16T02:52:37.665Z",
+                  "updatedAt": "2021-11-16T02:52:37.665Z",
+                  "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                  "ProductId": "31eb2cab-dd04-4f7c-8761-e2861d9f5c44"
+                }
+              },
+              {
+                "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "name": "45 ngày 1 đổi 1, miễn 100% phí",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-08-30T09:43:22.162Z",
+                  "updatedAt": "2022-08-30T09:43:22.162Z",
+                  "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                  "ProductId": "31eb2cab-dd04-4f7c-8761-e2861d9f5c44"
+                }
+              },
+              {
+                "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "name": "Freeship - Giao nhanh từ 2h",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2021-11-16T02:52:37.665Z",
+                  "updatedAt": "2021-11-16T02:52:37.665Z",
+                  "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                  "ProductId": "31eb2cab-dd04-4f7c-8761-e2861d9f5c44"
+                }
+              }
+            ]
+        }
+    ],
+    "apw": [
+        {
+            "retailPrice": 18789000,
+            "id": "0b84709c-9b6c-4428-9fa3-bf3c7e64c913",
+            "name": "Apple Watch Ultra 49mm LTE Viền Titanium Dây Ocean Chính Hãng VN/A",
+            "brand": "APPLE",
+            "uri": "apple-watch-ultra-49mm-lte-vien-titanium-day-ocean-chinh-hang-vna-1662776546",
+            "price": 23989000,
+            "salePrice": 18789000,
+            "publish": true,
+            "isInstalment": true,
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1665037694346-aw-ultra-ocean-ye.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1662777701948-aw-ultr-7.jpg",
+            "ratingScore": 4.8,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 3,
+              "5": 12,
+              "total": 15
+            },
+            "viewCount": 12216,
+            "CategoryId": "5321c88f-22a4-43c0-bc3d-788db1da9e5e",
+            "overlayPromotion": null,
+            "pOptions": [
+              {
+                "retailPrice": 18789000,
+                "stock": 0,
+                "id": "62b0dc10-830f-4c65-b056-a446d1e361c2",
+                "name": "Vàng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1665037694346-aw-ultra-ocean-ye.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664271884421-aw-ultr-ocean-4.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664271884419-aw-ultr-ocean-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664271884417-aw-ultr-ocean.jpg"
+                ],
+                "salePrice": 18789000
+              },
+              {
+                "retailPrice": 18789000,
+                "stock": 0,
+                "id": "8f17dcbd-1968-402b-9027-e3feed71b2fe",
+                "name": "Trắng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1665037694346-aw-ultra-ocean-wh.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664271884422-aw-ultr-ocean-5.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664271884420-aw-ultr-ocean-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664271884419-aw-ultr-ocean-1.jpg"
+                ],
+                "salePrice": 18789000
+              },
+              {
+                "retailPrice": 18789000,
+                "stock": 0,
+                "id": "4c93d3c8-222a-4cae-87f0-934a11bbefbe",
+                "name": "Than Chì",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1665037694343-aw-ultra-ocean-bm.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662777701948-aw-ultr-7.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662777701924-aw-ultr-5.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662777697283-aw-ultr-1.jpg"
+                ],
+                "salePrice": 18789000
+              }
+            ],
+            "preferences": [
+              {
+                "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-10T02:44:44.346Z",
+                  "updatedAt": "2022-09-10T02:44:44.346Z",
+                  "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                  "ProductId": "0b84709c-9b6c-4428-9fa3-bf3c7e64c913"
+                }
+              },
+              {
+                "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "name": "45 ngày 1 đổi 1, miễn 100% phí",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-10T02:44:44.346Z",
+                  "updatedAt": "2022-09-10T02:44:44.346Z",
+                  "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                  "ProductId": "0b84709c-9b6c-4428-9fa3-bf3c7e64c913"
+                }
+              },
+              {
+                "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "name": "Freeship - Giao nhanh từ 2h",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-10T02:44:44.346Z",
+                  "updatedAt": "2022-09-10T02:44:44.346Z",
+                  "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                  "ProductId": "0b84709c-9b6c-4428-9fa3-bf3c7e64c913"
+                }
+              }
+            ]
+        },
+        {
+        "retailPrice": 5989000,
+        "id": "15961aac-04a9-4c6a-a17d-97c9462af0e6",
+        "name": "Apple Watch SE 2 40mm Viền Nhôm Mới VN/A",
+        "brand": "APPLE",
+        "uri": "apple-watch-se-2-40mm-gps-vien-nhom-chinh-hang-vna-1662709214",
+        "price": 7489000,
+        "salePrice": 5989000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1665031968371-awse2022-gps-bm.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1662974406330-awse2-wh.jpg",
+        "ratingScore": 4.7,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 4,
+            "5": 9,
+            "total": 13
+        },
+        "viewCount": 28926,
+        "CategoryId": "5321c88f-22a4-43c0-bc3d-788db1da9e5e",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 6089000,
+            "stock": 0,
+            "id": "560faca3-7e9f-4e3f-87e9-f9d7ad2d9f25",
+            "name": "Bạc",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031968373-awse2022-gps-si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662974406330-awse2-si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442437-aw8-img-5.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442435-aw8-img-1.jpg"
+            ],
+            "salePrice": 6089000
+            },
+            {
+            "retailPrice": 5989000,
+            "stock": 0,
+            "id": "5ea27ace-9be4-41ce-8d79-d28745a9c3d2",
+            "name": "Than Chì",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031968371-awse2022-gps-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662974406323-awse2-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442436-aw8-img-4.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442435-aw8-img-2.jpg"
+            ],
+            "salePrice": 5989000
+            },
+            {
+            "retailPrice": 6089000,
+            "stock": 0,
+            "id": "d3ac9a6d-432f-4168-8d8e-efe9451821e5",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031968373-awse2022-gps-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662974406330-awse2-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442436-aw8-img-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442434-aw8-img.jpg"
+            ],
+            "salePrice": 6089000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T08:07:13.618Z",
+                "updatedAt": "2022-09-09T08:07:13.618Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "15961aac-04a9-4c6a-a17d-97c9462af0e6"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T08:07:13.618Z",
+                "updatedAt": "2022-09-09T08:07:13.618Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "15961aac-04a9-4c6a-a17d-97c9462af0e6"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T08:07:13.618Z",
+                "updatedAt": "2022-09-09T08:07:13.618Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "15961aac-04a9-4c6a-a17d-97c9462af0e6"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 6589000,
+        "id": "b356529e-5506-48f0-bf16-0ceedc617ce2",
+        "name": "Apple Watch SE 2 44mm Viền Nhôm Mới VN/A",
+        "brand": "APPLE",
+        "uri": "apple-watch-se-2-44mm-gps-vien-nhom-chinh-hang-vna-1662711370",
+        "price": 8489000,
+        "salePrice": 6589000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1665031968373-awse2022-gps-wh.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1662974406323-awse2-bm.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "total": 1
+        },
+        "viewCount": 25882,
+        "CategoryId": "5321c88f-22a4-43c0-bc3d-788db1da9e5e",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 6589000,
+            "stock": 0,
+            "id": "348c8e23-fb3f-4e8d-9b6e-81d9b9d58bca",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031968373-awse2022-gps-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662974406330-awse2-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442436-aw8-img-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442434-aw8-img.jpg"
+            ],
+            "salePrice": 6589000
+            },
+            {
+            "retailPrice": 6689000,
+            "stock": 1,
+            "id": "cd1a9879-0b30-4b70-a378-a0bf4269064e",
+            "name": "Bạc",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031968373-awse2022-gps-si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662974406330-awse2-si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442437-aw8-img-5.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442435-aw8-img-1.jpg"
+            ],
+            "salePrice": 6689000
+            },
+            {
+            "retailPrice": 6689000,
+            "stock": 0,
+            "id": "76deb157-d457-45e8-92cb-8f1c42792061",
+            "name": "Than Chì",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031968371-awse2022-gps-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662974406323-awse2-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442436-aw8-img-4.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664273442435-aw8-img-2.jpg"
+            ],
+            "salePrice": 6689000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T08:20:06.173Z",
+                "updatedAt": "2022-09-09T08:20:06.173Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "b356529e-5506-48f0-bf16-0ceedc617ce2"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T08:20:06.173Z",
+                "updatedAt": "2022-09-09T08:20:06.173Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "b356529e-5506-48f0-bf16-0ceedc617ce2"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T08:20:06.173Z",
+                "updatedAt": "2022-09-09T08:20:06.173Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "b356529e-5506-48f0-bf16-0ceedc617ce2"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 8789000,
+        "id": "5086471f-4b6b-45b0-8d1c-f5fe42037a0e",
+        "name": "Apple Watch Series 8 41mm Viền Nhôm VN/A",
+        "brand": "APPLE",
+        "uri": "apple-watch-series-8-41mm-gps-vien-nhom-chinh-hang-vna-1662690269",
+        "price": 11989000,
+        "salePrice": 8789000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1665031017283-aw8-gps-bm.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1662608490244-600x600-aw8-6.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "viewCount": 8412,
+        "CategoryId": "5321c88f-22a4-43c0-bc3d-788db1da9e5e",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 9289000,
+            "stock": 0,
+            "id": "6373d357-fea9-4425-b272-40b3964a2467",
+            "name": "Bạc",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031017288-aw8-gps-si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664355594481-aw8-si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662608490239-600x600-aw8-1.jpg"
+            ],
+            "salePrice": 9289000
+            },
+            {
+            "retailPrice": 8989000,
+            "stock": 0,
+            "id": "4e3d3514-fea9-413c-bb05-2939049f67a5",
+            "name": "Đỏ",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031017288-aw8-gps-re.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662699024214-aw8-alu-gps-re.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662608490240-600x600-aw8-2.jpg"
+            ],
+            "salePrice": 8989000
+            },
+            {
+            "retailPrice": 9289000,
+            "stock": 1,
+            "id": "a81d26f6-b4f8-487f-bf8e-7d047eb56da7",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031017288-aw8-gps-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664355594484-aw8-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662608490238-600x600-aw8.jpg"
+            ],
+            "salePrice": 9289000
+            },
+            {
+            "retailPrice": 8789000,
+            "stock": 1,
+            "id": "d46525f9-6791-454f-8dcb-4a6b795f8e0a",
+            "name": "Than Chì",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1665031017283-aw8-gps-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662699024201-aw8-alu-gps-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1662608490240-600x600-aw8-3.jpg"
+            ],
+            "salePrice": 8789000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T02:29:31.648Z",
+                "updatedAt": "2022-09-09T02:29:31.648Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "5086471f-4b6b-45b0-8d1c-f5fe42037a0e"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T02:29:31.648Z",
+                "updatedAt": "2022-09-09T02:29:31.648Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "5086471f-4b6b-45b0-8d1c-f5fe42037a0e"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-09T02:29:31.648Z",
+                "updatedAt": "2022-09-09T02:29:31.648Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "5086471f-4b6b-45b0-8d1c-f5fe42037a0e"
+            }
+            }
+        ]
+        },
+        {
+            "retailPrice": 18789000,
+            "id": "7eee5cc6-3b22-44fe-a74b-ad625a0a8d42",
+            "name": "Apple Watch Ultra 49mm LTE Viền Titanium Dây Alpine Chính Hãng VN/A",
+            "brand": "APPLE",
+            "uri": "apple-watch-ultra-49mm-lte-vien-titanium-day-alpine-chinh-hang-vna-1662779283",
+            "price": 23989000,
+            "salePrice": 18789000,
+            "publish": true,
+            "isInstalment": true,
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1665037694342-aw-ultra-alpine-wh.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1662777701959-aw-ultr-8.jpg",
+            "ratingScore": 0,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 0
+            },
+            "viewCount": 9950,
+            "CategoryId": "5321c88f-22a4-43c0-bc3d-788db1da9e5e",
+            "overlayPromotion": {
+              "id": "3ee29060-c9c6-40b1-add0-fae31d6e6b93",
+              "name": "Hot Deal Today Only",
+              "icon": "https://cdn.dienthoaigiakho.vn/photos/1686211069469-Hot-Deal-Today-Badge.png"
+            },
+            "pOptions": [
+              {
+                "retailPrice": 18789000,
+                "stock": 0,
+                "id": "aeb57adb-e16a-460c-8454-7d360cdf41d8",
+                "name": "Trắng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1665037694342-aw-ultra-alpine-wh.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664272844036-aw-ultr-alpine-5.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664272844034-aw-ultr-alpine-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664272844032-aw-ultr-alpine-1.jpg"
+                ],
+                "salePrice": 18789000
+              },
+              {
+                "retailPrice": 18789000,
+                "stock": 0,
+                "id": "dc10b9cc-6c2e-489e-8f60-530dbf5df098",
+                "name": "Cam",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1665037694340-aw-ultra-alpine-or.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662777701959-aw-ultr-8.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662777701914-aw-ultr-4.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662777697303-aw-ultr-2.jpg"
+                ],
+                "salePrice": 18789000
+              },
+              {
+                "retailPrice": 18789000,
+                "stock": 0,
+                "id": "824bec2f-b5cf-4d25-9222-02c2b1f0a5b2",
+                "name": "Xanh lá",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1665037694329-aw-ultra-alpine-ge.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664272844035-aw-ultr-alpine-4.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664272844033-aw-ultr-alpine-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1664272844029-aw-ultr-alpine.jpg"
+                ],
+                "salePrice": 18789000
+              }
+            ],
+            "preferences": [
+              {
+                "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-10T03:12:09.124Z",
+                  "updatedAt": "2022-09-10T03:12:09.124Z",
+                  "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                  "ProductId": "7eee5cc6-3b22-44fe-a74b-ad625a0a8d42"
+                }
+              },
+              {
+                "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "name": "45 ngày 1 đổi 1, miễn 100% phí",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-10T03:12:09.124Z",
+                  "updatedAt": "2022-09-10T03:12:09.124Z",
+                  "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                  "ProductId": "7eee5cc6-3b22-44fe-a74b-ad625a0a8d42"
+                }
+              },
+              {
+                "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "name": "Freeship - Giao nhanh từ 2h",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-10T03:12:09.124Z",
+                  "updatedAt": "2022-09-10T03:12:09.124Z",
+                  "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                  "ProductId": "7eee5cc6-3b22-44fe-a74b-ad625a0a8d42"
+                }
+              }
+            ]
+        }
+    ], 
+    "ipad": [
+        {
+            "retailPrice": 10789000,
+            "id": "b3a76f36-1eb3-4b80-a3a1-7693f8a9d69b",
+            "name": "iPad Mini 6 8.3 inch 2021 Wifi 64GB Chính Hãng",
+            "brand": "Apple",
+            "uri": "ipad-mini-6-83-inch-wifi-64gb-2021-moi-fullbox-1631848597",
+            "price": 12989000,
+            "salePrice": 10789000,
+            "publish": true,
+            "isInstalment": true,
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675330893826-600x600-ipad-mini6-new-2.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1671680550010-600x600-tet-ipmini6-new-3.jpg",
+            "ratingScore": 5,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 27,
+              "total": 27
+            },
+            "viewCount": 30741,
+            "CategoryId": "a765472f-414e-4e24-bf50-607ae23433dc",
+            "overlayPromotion": {
+              "id": "942b2943-758e-4fb8-8745-b99b020ffc0a",
+              "name": "VUA GIÁ RẺ - Hot Deal today",
+              "icon": "https://cdn.dienthoaigiakho.vn/photos/1686193790282-Demo-Opt-3.png"
+            },
+            "pOptions": [
+              {
+                "retailPrice": 10789000,
+                "stock": 6,
+                "id": "e2430310-faaf-4e68-b8c4-569d8268ca0d",
+                "name": "Tím",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330893826-600x600-ipad-mini6-new-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330708239-ipad-mini6-64g-Pu.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330442643-600x600-ipad-mini6-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635408709933-ipmini6-pple-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635408709920-ipmini6-pple2-min.jpg"
+                ],
+                "salePrice": 10789000
+              },
+              {
+                "retailPrice": 10989000,
+                "stock": 4,
+                "id": "5fd32489-9d1f-4cfe-ba78-2fc27ed52224",
+                "name": "Hồng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330893825-600x600-ipad-mini6-new-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330708239-ipad-mini6-64g-Ro.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330442643-600x600-ipad-mini6-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635408709908-ipmini6-pink-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635408709894-ipmini6-pink2-min.jpg"
+                ],
+                "salePrice": 10989000
+              },
+              {
+                "retailPrice": 10789000,
+                "stock": 6,
+                "id": "e9748800-695c-4c12-8d02-e012be20eab4",
+                "name": "Bạc",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330893826-600x600-ipad-mini6-new-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330708240-ipad-mini6-64g-Si.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330442643-600x600-ipad-mini6-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635408709964-ipmini6-wh-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635408709933-ipmini6-wh2-min.jpg"
+                ],
+                "salePrice": 10789000
+              },
+              {
+                "retailPrice": 10889000,
+                "stock": 2,
+                "id": "86fa6af9-190c-4c5c-8bb9-648019554946",
+                "name": "Xám",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1684135989242-10889.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330893825-600x600-ipad-mini6-new.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330708240-ipad-mini6-Gr-64.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675330442642-600x600-ipad-mini6.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635408709866-ipmini6-black-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635408709669-ipmini6-black2-min.jpg"
+                ],
+                "salePrice": 10889000
+              }
+            ],
+            "preferences": [
+              {
+                "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2021-11-16T08:00:48.095Z",
+                  "updatedAt": "2021-11-16T08:00:48.095Z",
+                  "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                  "ProductId": "b3a76f36-1eb3-4b80-a3a1-7693f8a9d69b"
+                }
+              },
+              {
+                "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "name": "45 ngày 1 đổi 1, miễn 100% phí",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-08-31T09:00:28.373Z",
+                  "updatedAt": "2022-08-31T09:00:28.373Z",
+                  "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                  "ProductId": "b3a76f36-1eb3-4b80-a3a1-7693f8a9d69b"
+                }
+              },
+              {
+                "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "name": "Freeship - Giao nhanh từ 2h",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2021-11-16T08:00:48.095Z",
+                  "updatedAt": "2021-11-16T08:00:48.095Z",
+                  "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                  "ProductId": "b3a76f36-1eb3-4b80-a3a1-7693f8a9d69b"
+                }
+              }
+            ]
+        },
+        {
+        "retailPrice": 13289000,
+        "id": "a7a0cb36-919f-4150-a23c-42179bf517b0",
+        "name": "iPad Air 4 10.9 inch 2020 Wifi Cellular 64GB Chính Hãng",
+        "brand": "Apple",
+        "uri": "ipad-air-4-109-inch-wifi-cellular-64gb-2020-moi-nguyen-seal-chua-kich-hoat-1600232517",
+        "price": 20989000,
+        "salePrice": 13289000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675335757308-600x600-ipad-air4-new-4.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1671684255203-600x600-tet-ipair4-new.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2,
+            "total": 2
+        },
+        "viewCount": 25157,
+        "CategoryId": "a765472f-414e-4e24-bf50-607ae23433dc",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 13289000,
+            "stock": 2,
+            "id": "aabb78a0-86e6-4aba-be01-15c69c36787a",
+            "name": "Xám",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675335757308-600x600-ipad-air4-new-4.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675335479370-ipad-air4-64gb-gr.jpg"
+            ],
+            "salePrice": 13289000
+            },
+            {
+            "retailPrice": 13489000,
+            "stock": 0,
+            "id": "137f4dee-4690-4d91-b1d7-a105667872fe",
+            "name": "Xanh dương",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675335757306-600x600-ipad-air4-new.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675335479369-ipad-air4-64gb-BL.jpg"
+            ],
+            "salePrice": 13489000
+            },
+            {
+            "retailPrice": 13389000,
+            "stock": 0,
+            "id": "aed8c09f-8e0c-4f3a-b29b-680f9a94a18a",
+            "name": "Bạc",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675335757307-600x600-ipad-air4-new-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675335479371-ipad-air4-64gb-Si.jpg"
+            ],
+            "salePrice": 13389000
+            },
+            {
+            "retailPrice": 13289000,
+            "stock": 2,
+            "id": "6efe9984-3ed9-48c1-bb57-ee399ae8bcb4",
+            "name": "Hồng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675335757306-600x600-ipad-air4-new-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675335479371-ipad-air4-64gb-ro.jpg"
+            ],
+            "salePrice": 13289000
+            },
+            {
+            "retailPrice": 13389000,
+            "stock": 0,
+            "id": "6534b6ec-ec5c-437a-b0f3-73e956559fa3",
+            "name": "Xanh lá",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675335757307-600x600-ipad-air4-new-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675335479370-ipad-air4-64gb-ge.jpg"
+            ],
+            "salePrice": 13389000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2021-11-16T08:04:15.062Z",
+                "updatedAt": "2021-11-16T08:04:15.062Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "a7a0cb36-919f-4150-a23c-42179bf517b0"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-08-31T09:13:15.526Z",
+                "updatedAt": "2022-08-31T09:13:15.526Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "a7a0cb36-919f-4150-a23c-42179bf517b0"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2021-11-16T08:04:15.062Z",
+                "updatedAt": "2021-11-16T08:04:15.062Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "a7a0cb36-919f-4150-a23c-42179bf517b0"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 16989000,
+        "id": "87b22c84-88b3-49ea-852b-bad2c5e90c51",
+        "name": "iPad Air 5 10.9 inch 2022 Wifi 256GB Chính Hãng",
+        "brand": "Apple",
+        "uri": "ipad-air-5-109-inch-wifi-256gb-2022-chinh-hang-1646816770",
+        "price": 20989000,
+        "salePrice": 16989000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675336254806-600x600-ipad-air5-new.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1671684678707-600x600-tet-ipair5-new-1.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 9,
+            "total": 9
+        },
+        "viewCount": 26575,
+        "CategoryId": "a765472f-414e-4e24-bf50-607ae23433dc",
+        "overlayPromotion": {
+            "id": "3ee29060-c9c6-40b1-add0-fae31d6e6b93",
+            "name": "Hot Deal Today Only",
+            "icon": "https://cdn.dienthoaigiakho.vn/photos/1686211069469-Hot-Deal-Today-Badge.png"
+        },
+        "pOptions": [
+            {
+            "retailPrice": 17189000,
+            "stock": 3,
+            "id": "198ad8d0-54aa-4f65-8513-e3942809d89b",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675336254807-600x600-ipad-air5-new-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675336552058-ipad-air5-256gb-Si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811607668-Tipair5-si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811607668-Tipair5-si2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811607669-Tipair5-si3.jpg"
+            ],
+            "salePrice": 17189000
+            },
+            {
+            "retailPrice": 17089000,
+            "stock": 1,
+            "id": "470c449b-234c-4791-b53a-90c9bad0b359",
+            "name": "Xám",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675336254808-600x600-ipad-air5-new-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675336552056-ipad-air5-256gb-Gr.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811578615-Tipair5-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811578619-Tipair5-bm2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811578621-Tipair5-bm3.jpg"
+            ],
+            "salePrice": 17089000
+            },
+            {
+            "retailPrice": 17089000,
+            "stock": 5,
+            "id": "eff9ed42-b32c-4096-b61b-9cec0a28c191",
+            "name": "Tím",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675336254816-600x600-ipad-air5-new-4.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675336552057-ipad-air5-256gb-Pu.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811551280-Tipair5-pu.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811551283-Tipair5-pu2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811551283-Tipair5-pu3.jpg"
+            ],
+            "salePrice": 17089000
+            },
+            {
+            "retailPrice": 16989000,
+            "stock": 10,
+            "id": "0a896018-ddc8-4410-91a2-41deff7d30d5",
+            "name": "Xanh dương",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675336254806-600x600-ipad-air5-new.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675336552056-ipad-air5-256gb-BL.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811533257-Tipair5-bl.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811533262-Tipair5-bl2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811533263-Tipair5-bl3.jpg"
+            ],
+            "salePrice": 16989000
+            },
+            {
+            "retailPrice": 17189000,
+            "stock": 2,
+            "id": "08fb83c8-10b0-47d7-9410-a1faaf9e37cc",
+            "name": "Hồng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675336254806-600x600-ipad-air5-new-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675336552057-ipad-air5-256gb-Ro.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811566004-Tipair5-ro.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811566004-Tipair5-ro2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1646811566005-Tipair5-ro3.jpg"
+            ],
+            "salePrice": 17189000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-03-09T09:10:02.853Z",
+                "updatedAt": "2022-03-09T09:10:02.853Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "87b22c84-88b3-49ea-852b-bad2c5e90c51"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-08-31T09:14:26.388Z",
+                "updatedAt": "2022-08-31T09:14:26.388Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "87b22c84-88b3-49ea-852b-bad2c5e90c51"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-03-09T09:10:02.853Z",
+                "updatedAt": "2022-03-09T09:10:02.853Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "87b22c84-88b3-49ea-852b-bad2c5e90c51"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 6389000,
+        "id": "bd2b2ce3-3be3-41b2-802e-e7261c102df4",
+        "name": "iPad Gen 9 10.2 inch Wifi 64GB Chính Hãng",
+        "brand": "Apple",
+        "uri": "ipad-gen-9-102-inch-wifi-64gb-fullbox-da-kich-hoat-1651045079",
+        "price": 9989000,
+        "salePrice": 6389000,
+        "publish": false,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675333190565-600x600-ipad-gen9-new.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1671681927509-600x600-tet-ipgen9-new-1.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "total": 1
+        },
+        "viewCount": 27719,
+        "CategoryId": "a765472f-414e-4e24-bf50-607ae23433dc",
+        "overlayPromotion": {
+            "id": "5f996bc6-576c-40d5-aeb9-0a039778f8d3",
+            "name": "",
+            "icon": ""
+        },
+        "pOptions": [
+            {
+            "retailPrice": 6389000,
+            "stock": 0,
+            "id": "f21115a1-0b1f-4b79-8d69-f07e5fcbba58",
+            "name": "Bạc",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675333190565-600x600-ipad-gen9-new.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675333622957-ipad-9th-Si.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1636543825496-ipadgen9-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1635324574440-ipgen-wifi-wh3.jpg"
+            ],
+            "salePrice": 6389000
+            },
+            {
+            "retailPrice": 6489000,
+            "stock": 0,
+            "id": "181db40f-ee4f-4797-adb2-45fc33d95496",
+            "name": "Xám",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1675333190565-600x600-ipad-gen9-new-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1675333622957-ipad-9th-gr.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1647579187689-2022-Tbipgen9-gr-new-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1636543825417-ipadgen9-bm.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1635324557550-ipgen-wifi-black3.jpg"
+            ],
+            "salePrice": 6489000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-04-27T07:44:32.225Z",
+                "updatedAt": "2022-04-27T07:44:32.225Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "bd2b2ce3-3be3-41b2-802e-e7261c102df4"
+            }
+            },
+            {
+            "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+            "name": "45 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-08-31T09:04:14.009Z",
+                "updatedAt": "2022-08-31T09:04:14.009Z",
+                "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "ProductId": "bd2b2ce3-3be3-41b2-802e-e7261c102df4"
+            }
+            },
+            {
+            "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+            "name": "Freeship - Giao nhanh từ 2h",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-04-27T07:44:32.225Z",
+                "updatedAt": "2022-04-27T07:44:32.225Z",
+                "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "ProductId": "bd2b2ce3-3be3-41b2-802e-e7261c102df4"
+            }
+            }
+        ]
+        },
+        {
+            "retailPrice": 22789000,
+            "id": "7316ed6e-5958-42dd-8fe4-645a413e7d9b",
+            "name": "iPad Pro M1 11 inch 2021 Wifi 5G 256GB Chính Hãng",
+            "brand": "Apple",
+            "uri": "ipad-pro-m1-11-inch-2021-wifi-cellular-256gb-chinh-hang-1619079741",
+            "price": 29989000,
+            "salePrice": 22789000,
+            "publish": false,
+            "isInstalment": true,
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675321693899-600x600-ipad-pro-m1-11-new.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1647575050716-2022-Tbip11m1-wh-new.jpg",
+            "ratingScore": 0,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 0
+            },
+            "viewCount": 15699,
+            "CategoryId": "a765472f-414e-4e24-bf50-607ae23433dc",
+            "overlayPromotion": null,
+            "pOptions": [
+              {
+                "retailPrice": 22789000,
+                "stock": 0,
+                "id": "b8a5d461-b171-4c0a-a651-1a27cd789574",
+                "name": "Bạc",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675321693899-600x600-ipad-pro-m1-11-new.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675322818253-11inch-256gb-si.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675321720131-600x600-ipad-pro-m1-11.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635414221614-ippro11-2020-wh2-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635414221633-ippro11-2020-wh-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635414221631-ippro11-2020-wh3-min.jpg"
+                ],
+                "salePrice": 22789000
+              },
+              {
+                "retailPrice": 22789000,
+                "stock": 0,
+                "id": "b618b0fd-ae11-4a5d-aaa1-5ac38a58e04c",
+                "name": "Xám",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1675321693899-600x600-ipad-pro-m1-11-new-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675322818252-11inch-256gb-gr.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1675321720132-600x600-ipad-pro-m1-11-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635414221538-ippro11-2020-bl2-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635414221597-ippro11-2020-bl-min.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1635414221593-ippro11-2020-bl3-min.jpg"
+                ],
+                "salePrice": 22789000
+              }
+            ],
+            "preferences": [
+              {
+                "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2021-11-16T07:42:51.758Z",
+                  "updatedAt": "2021-11-16T07:42:51.758Z",
+                  "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                  "ProductId": "7316ed6e-5958-42dd-8fe4-645a413e7d9b"
+                }
+              },
+              {
+                "id": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                "name": "45 ngày 1 đổi 1, miễn 100% phí",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-08-31T08:55:11.324Z",
+                  "updatedAt": "2022-08-31T08:55:11.324Z",
+                  "PreferenceId": "bf93e1ab-7811-415e-832f-3f1d65a8c270",
+                  "ProductId": "7316ed6e-5958-42dd-8fe4-645a413e7d9b"
+                }
+              },
+              {
+                "id": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                "name": "Freeship - Giao nhanh từ 2h",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2021-11-16T07:42:51.758Z",
+                  "updatedAt": "2021-11-16T07:42:51.758Z",
+                  "PreferenceId": "d3360615-532b-4da2-a843-25a5a13c03e9",
+                  "ProductId": "7316ed6e-5958-42dd-8fe4-645a413e7d9b"
+                }
+              }
+            ]
+        }
+    ],
+    "phukien": [
+        {
+            "retailPrice": 4999000,
+            "id": "fde10940-5bf0-46bd-9f18-d96047b3d552",
+            "name": "Tai Nghe Apple AirPods Pro 2 Magsafe Charge 2022 Chính Hãng",
+            "brand": "Apple",
+            "uri": "tai-nghe-apple-airpods-pro-2-magsafe-charge-2022-chinh-hang-1663842113",
+            "price": 6989000,
+            "salePrice": 4999000,
+            "publish": true,
+            "isInstalment": true,
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1686621264752-Tai-Nghe-Apple-AirPods-Pro-2-2022.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-3.jpg",
+            "ratingScore": 4.9,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 2,
+              "5": 33,
+              "total": 35
+            },
+            "viewCount": 8962,
+            "CategoryId": "ae170bd0-7bde-41bf-8bb7-035ec99943fa",
+            "overlayPromotion": {
+              "id": "82a5c371-1a30-4f36-b6b1-b24b12754e8c",
+              "name": "",
+              "icon": ""
+            },
+            "pOptions": [
+              {
+                "retailPrice": 4999000,
+                "stock": 0,
+                "id": "7a2c84ac-475e-421b-837d-a98fa4c563f5",
+                "name": "Trắng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1684124742526-600x600_AirpodsPro2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1663990385429-airpods-pro-2-thumbnail.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314109-airpods-pro-2nd.jpg"
+                ],
+                "salePrice": 4999000
+              },
+              {
+                "retailPrice": 5649000,
+                "stock": 3,
+                "id": "7a25d92c-1cb8-4ae8-a096-08212c39c528",
+                "name": "VN/A",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1663990385429-airpods-pro-2-thumbnail.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314109-airpods-pro-2nd.jpg"
+                ],
+                "salePrice": 5649000
+              },
+              {
+                "retailPrice": 4999000,
+                "stock": 43,
+                "id": "8fd44ac2-82eb-4834-8cfc-2c73d3489755",
+                "name": "Quốc Tế",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1686621264752-Tai-Nghe-Apple-AirPods-Pro-2-2022.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1663990385429-airpods-pro-2-thumbnail.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-3.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-2.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314121-airpods-pro-2nd-1.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1662781314109-airpods-pro-2nd.jpg"
+                ],
+                "salePrice": 4999000
+              }
+            ],
+            "preferences": [
+              {
+                "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-22T10:28:33.650Z",
+                  "updatedAt": "2022-09-22T10:28:33.650Z",
+                  "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                  "ProductId": "fde10940-5bf0-46bd-9f18-d96047b3d552"
+                }
+              },
+              {
+                "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "name": "Phụ kiện chính hãng 100% | Freeship",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-09-22T10:28:33.650Z",
+                  "updatedAt": "2022-09-22T10:28:33.650Z",
+                  "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                  "ProductId": "fde10940-5bf0-46bd-9f18-d96047b3d552"
+                }
+              },
+              {
+                "id": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+                "name": "30 ngày 1 đổi 1, miễn 100% phí",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-11-02T07:04:30.983Z",
+                  "updatedAt": "2022-11-02T07:04:30.983Z",
+                  "PreferenceId": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+                  "ProductId": "fde10940-5bf0-46bd-9f18-d96047b3d552"
+                }
+              }
+            ]
+        },
+        {
+        "retailPrice": 2549000,
+        "id": "6910df4f-ddf9-48f2-b10e-c6f4b4bc0205",
+        "name": "Tai nghe Apple AirPods 2 Hộp Sạc Có Dây Chính Hãng VN/A",
+        "brand": "Apple",
+        "uri": "tai-nghe-apple-airpods-2-hop-sac-co-day-vna-moi-nguyen-seal-chua-kich-hoat-1600933501",
+        "price": 3990000,
+        "salePrice": 2549000,
+        "publish": false,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1683606633565-2549.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1650449409436-airpods-2-thumbnail.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 6,
+            "5": 121,
+            "total": 127
+        },
+        "viewCount": 12295,
+        "CategoryId": "ae170bd0-7bde-41bf-8bb7-035ec99943fa",
+        "overlayPromotion": {
+            "id": "67daaa70-0c16-4ee4-8e9b-3fe0592bbb62",
+            "name": "",
+            "icon": ""
+        },
+        "pOptions": [
+            {
+            "retailPrice": 2549000,
+            "stock": 18,
+            "id": "7822e6e5-a918-41c2-a5f9-b17aa2dae814",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1683606633565-2549.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1650449409436-airpods-2-thumbnail.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1681103162525-airpods-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1621933080222-1599129848721-airpods-2-sac-co-day-trang-dienthoaigiakho.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1681103162526-airpods-2-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1681103162525-airpods-2-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1681103162525-airpods-2-1.jpg"
+            ],
+            "salePrice": 2549000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+            "name": "Phụ kiện chính hãng 100% | Freeship",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-05T03:35:00.233Z",
+                "updatedAt": "2022-09-05T03:35:00.233Z",
+                "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "ProductId": "6910df4f-ddf9-48f2-b10e-c6f4b4bc0205"
+            }
+            },
+            {
+            "id": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+            "name": "30 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-05T02:34:08.468Z",
+                "updatedAt": "2022-09-05T02:34:08.468Z",
+                "PreferenceId": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+                "ProductId": "6910df4f-ddf9-48f2-b10e-c6f4b4bc0205"
+            }
+            },
+            {
+            "id": "7814481d-82c7-4523-8585-74bbd431bb88",
+            "name": "Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-11-02T04:42:09.108Z",
+                "updatedAt": "2022-11-02T04:42:09.108Z",
+                "PreferenceId": "7814481d-82c7-4523-8585-74bbd431bb88",
+                "ProductId": "6910df4f-ddf9-48f2-b10e-c6f4b4bc0205"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 3999000,
+        "id": "33aea80e-c86c-4d8e-8da9-b3a2a1e2e270",
+        "name": "Tai nghe Apple AirPods 3 Chính Hãng VN/A",
+        "brand": "Apple",
+        "uri": "tai-nghe-apple-airpods-3-hop-sac-khong-day-chinh-hang-vna-1639042997",
+        "price": 5489000,
+        "salePrice": 3999000,
+        "publish": false,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1650449409451-airpods-3-thumbnail.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1650449409451-airpods-3-thumbnail.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 24,
+            "total": 24
+        },
+        "viewCount": 6922,
+        "CategoryId": "ae170bd0-7bde-41bf-8bb7-035ec99943fa",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 3999000,
+            "stock": 19,
+            "id": "0984a245-5f60-4319-b48d-91237a5df51d",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1650449409451-airpods-3-thumbnail.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634887067371-airpods3-img-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634887067360-airpods3-img3-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634887067309-airpods3-img2-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634887067367-airpods3-img4-min.jpg"
+            ],
+            "salePrice": 3999000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2021-12-09T09:49:42.450Z",
+                "updatedAt": "2021-12-09T09:49:42.450Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "33aea80e-c86c-4d8e-8da9-b3a2a1e2e270"
+            }
+            },
+            {
+            "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+            "name": "Phụ kiện chính hãng 100% | Freeship",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-05T03:41:19.247Z",
+                "updatedAt": "2022-09-05T03:41:19.247Z",
+                "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "ProductId": "33aea80e-c86c-4d8e-8da9-b3a2a1e2e270"
+            }
+            },
+            {
+            "id": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+            "name": "30 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-05T02:38:07.613Z",
+                "updatedAt": "2022-09-05T02:38:07.613Z",
+                "PreferenceId": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+                "ProductId": "33aea80e-c86c-4d8e-8da9-b3a2a1e2e270"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 4099000,
+        "id": "83b14809-f3ed-4329-bda0-8429e72c81cb",
+        "name": "Tai nghe Apple AirPods 3 Magsafe Charge Chính Hãng VN/A",
+        "brand": "Apple",
+        "uri": "tai-nghe-apple-airpods-3-magsafe-charge-chinh-hang-vna-1673862423",
+        "price": 5989000,
+        "salePrice": 4099000,
+        "publish": false,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1673838302510-Airpods3-magsafe.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1650449409451-airpods-3-thumbnail.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "viewCount": 1258,
+        "CategoryId": "ae170bd0-7bde-41bf-8bb7-035ec99943fa",
+        "overlayPromotion": {
+            "id": "93d22665-957e-4e4f-9b01-22d105a53030",
+            "name": "[STKG]-HOT SALE",
+            "icon": "https://cdn.dienthoaigiakho.vn/photos/1679041180228-Hotsale_result.png"
+        },
+        "pOptions": [
+            {
+            "retailPrice": 4099000,
+            "stock": 0,
+            "id": "2c55e130-22db-4d38-91e7-6bc2d40fbc19",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1673838302510-Airpods3-magsafe.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634887067371-airpods3-img-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634887067367-airpods3-img4-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634887067360-airpods3-img3-min.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1634887067309-airpods3-img2-min.jpg"
+            ],
+            "salePrice": 4099000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2023-01-16T09:49:45.027Z",
+                "updatedAt": "2023-01-16T09:49:45.027Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "83b14809-f3ed-4329-bda0-8429e72c81cb"
+            }
+            },
+            {
+            "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+            "name": "Phụ kiện chính hãng 100% | Freeship",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2023-01-16T09:49:45.027Z",
+                "updatedAt": "2023-01-16T09:49:45.027Z",
+                "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "ProductId": "83b14809-f3ed-4329-bda0-8429e72c81cb"
+            }
+            },
+            {
+            "id": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+            "name": "30 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2023-01-16T09:49:45.027Z",
+                "updatedAt": "2023-01-16T09:49:45.027Z",
+                "PreferenceId": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+                "ProductId": "83b14809-f3ed-4329-bda0-8429e72c81cb"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 4349000,
+        "id": "c621ae07-a553-42ed-9a91-269100050b28",
+        "name": "Tai Nghe Apple AirPods Pro Magsafe Charge 2021 Chính Hãng VN/A",
+        "brand": "Apple",
+        "uri": "tai-nghe-apple-airpods-pro-magsafe-charge-2021-chinh-hang-vna-1661162639",
+        "price": 6839000,
+        "salePrice": 4349000,
+        "publish": false,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1681456559842-Airpods-Pro-2021-Magsafe.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1650449409459-airpods-pro-thumbnail.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 15,
+            "total": 15
+        },
+        "viewCount": 2594,
+        "CategoryId": "ae170bd0-7bde-41bf-8bb7-035ec99943fa",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 4349000,
+            "stock": 3,
+            "id": "7fb7230c-1b1e-4496-9d6a-ca610d3518fd",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1681456559842-Airpods-Pro-2021-Magsafe.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1650449409459-airpods-pro-thumbnail.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1572320719468-MWP22_AV1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1572320719481-MWP22_AV2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1572320719492-MWP22_AV3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1572320719577-MWP22_AV4.jpg"
+            ],
+            "salePrice": 4349000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "850c76e0-3720-4d44-ae26-069541672b6a",
+            "name": "Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-05T03:42:36.880Z",
+                "updatedAt": "2022-09-05T03:42:36.880Z",
+                "PreferenceId": "850c76e0-3720-4d44-ae26-069541672b6a",
+                "ProductId": "c621ae07-a553-42ed-9a91-269100050b28"
+            }
+            },
+            {
+            "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+            "name": "Phụ kiện chính hãng 100% | Freeship",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-05T03:42:36.880Z",
+                "updatedAt": "2022-09-05T03:42:36.880Z",
+                "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "ProductId": "c621ae07-a553-42ed-9a91-269100050b28"
+            }
+            },
+            {
+            "id": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+            "name": "30 ngày 1 đổi 1, miễn 100% phí",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-09-05T02:54:58.118Z",
+                "updatedAt": "2022-09-05T02:54:58.118Z",
+                "PreferenceId": "cc46437f-de0d-40d5-b6c6-a35b1c2a517f",
+                "ProductId": "c621ae07-a553-42ed-9a91-269100050b28"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 2989000,
+        "id": "8cae8cea-ae12-400d-a508-e75049602562",
+        "name": "Bàn Di Chuột Apple Magic Trackpad 3",
+        "brand": "Apple",
+        "uri": "ban-di-chuot-apple-magic-trackpad-3-1664787427",
+        "price": 3990000,
+        "salePrice": 2989000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1672720187678-Apple-Magic-Trackpad.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1664787526764-apple-track3-7.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "viewCount": 7678,
+        "CategoryId": "7e78a0fa-6d6f-4e7c-9598-cd0ce34b5cf4",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 2989000,
+            "stock": 6,
+            "id": "88fc3da9-f8ee-489f-910f-4b6a8b61ec79",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1672720290385-Apple-Magic-Trackpad-wh.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526762-apple-track3-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526763-apple-track3-6.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526763-apple-track3-4.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526762-apple-track3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526765-apple-track3-8.jpg"
+            ],
+            "salePrice": 2989000
+            },
+            {
+            "retailPrice": 2989000,
+            "stock": 3,
+            "id": "22e44915-e3db-4d46-ae21-d9e3390a5b78",
+            "name": "Đen",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1672720187678-Apple-Magic-Trackpad.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1672720070964-Apple-Magic-Trackpad.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526763-apple-track3-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526764-apple-track3-7.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526763-apple-track3-5.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526762-apple-track3-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1664787526766-apple-track3-9.jpg"
+            ],
+            "salePrice": 2989000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "114cabd1-c6ad-4db9-802c-c42f5cfe5204",
+            "name": "Phụ kiện chính hãng 100% - Freeship ",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-10-13T08:06:10.985Z",
+                "updatedAt": "2022-10-13T08:06:10.985Z",
+                "PreferenceId": "114cabd1-c6ad-4db9-802c-c42f5cfe5204",
+                "ProductId": "8cae8cea-ae12-400d-a508-e75049602562"
+            }
+            },
+            {
+            "id": "50fc79af-99f2-41a6-b251-7ece38457768",
+            "name": " Trả góp 0% | Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2023-04-03T03:55:11.561Z",
+                "updatedAt": "2023-04-03T03:55:11.561Z",
+                "PreferenceId": "50fc79af-99f2-41a6-b251-7ece38457768",
+                "ProductId": "8cae8cea-ae12-400d-a508-e75049602562"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 1599000,
+        "id": "7b5943b9-bd3f-4b07-be82-32f9b241d8e8",
+        "name": "Chuột Không Dây Apple Magic Mouse 2021",
+        "brand": "Apple",
+        "uri": "chuot-khong-day-apple-magic-mouse-2021-1660808123",
+        "price": 2989000,
+        "salePrice": 1599000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1672395414914-Apple-Magic-Mouse-2021.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1660809081244-Magic-mouse-2021-4.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 4,
+            "total": 4
+        },
+        "viewCount": 7216,
+        "CategoryId": "9a51a9ab-5f81-4176-bfc9-2f59fc43916d",
+        "overlayPromotion": {
+            "id": "4764f5fe-e65b-4fa2-b81d-292dc04b8548",
+            "name": "",
+            "icon": ""
+        },
+        "pOptions": [
+            {
+            "retailPrice": 1599000,
+            "stock": 1,
+            "id": "1934141b-e0b8-46fc-a2b9-40bfba895865",
+            "name": "Bạc",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1672395414914-Apple-Magic-Mouse-2021.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1660809081244-Magic-mouse-2021-4.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1660809081224-Magic-mouse-2021-1.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1660809081211-Magic-mouse-2021.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1660809081254-Magic-mouse-2021-5.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1660809081234-Magic-mouse-2021-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1660809081244-Magic-mouse-2021-3.jpg"
+            ],
+            "salePrice": 1599000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+            "name": "Phụ kiện chính hãng 100% | Freeship",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-08-18T07:55:56.330Z",
+                "updatedAt": "2022-08-18T07:55:56.330Z",
+                "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "ProductId": "7b5943b9-bd3f-4b07-be82-32f9b241d8e8"
+            }
+            },
+            {
+            "id": "7814481d-82c7-4523-8585-74bbd431bb88",
+            "name": "Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-10-31T10:01:33.969Z",
+                "updatedAt": "2022-10-31T10:01:33.969Z",
+                "PreferenceId": "7814481d-82c7-4523-8585-74bbd431bb88",
+                "ProductId": "7b5943b9-bd3f-4b07-be82-32f9b241d8e8"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 439000,
+        "id": "1adfd05b-7a1b-43ee-925b-0b36cf74cab7",
+        "name": "Sạc Apple iPhone 20W Type-C Chính Hãng",
+        "brand": "Apple",
+        "uri": "sac-apple-iphone-20w-type-c-hang-chinh-hang-1604028726",
+        "price": 689000,
+        "salePrice": 439000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1653299389614-apple-20w-typec.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1627293831212-adapter20w-5.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 12,
+            "total": 12
+        },
+        "viewCount": 7577,
+        "CategoryId": "9a51a9ab-5f81-4176-bfc9-2f59fc43916d",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 439000,
+            "stock": 123,
+            "id": "ca0bfa72-7ed5-4182-8a77-c7314e9c80d3",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1653299389614-apple-20w-typec.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1627293792269-adapter20w-3.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1627293792265-adapter20w-2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1627293792272-adapter20w-4.jpg"
+            ],
+            "salePrice": 439000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+            "name": "Phụ kiện chính hãng 100% | Freeship",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2021-11-26T07:05:33.765Z",
+                "updatedAt": "2021-11-26T07:05:33.765Z",
+                "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "ProductId": "1adfd05b-7a1b-43ee-925b-0b36cf74cab7"
+            }
+            },
+            {
+            "id": "7814481d-82c7-4523-8585-74bbd431bb88",
+            "name": "Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-10-31T03:34:25.844Z",
+                "updatedAt": "2022-10-31T03:34:25.844Z",
+                "PreferenceId": "7814481d-82c7-4523-8585-74bbd431bb88",
+                "ProductId": "1adfd05b-7a1b-43ee-925b-0b36cf74cab7"
+            }
+            }
+        ]
+        },
+        {
+        "retailPrice": 249000,
+        "id": "3b735e38-22b3-4df3-bb9b-8183dbc7d31b",
+        "name": "Cáp Sạc USB-C To Lightning Cho iPhone/ iPad Apple (Hàng Chính Hãng)",
+        "brand": "Apple",
+        "uri": "cap-sac-usb-c-to-lightning-cho-iphone-ipad-apple-hang-chinh-hang-1572581744",
+        "price": 600000,
+        "salePrice": 249000,
+        "publish": true,
+        "isInstalment": true,
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1653299262365-apple-1m-ctolightning.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1565753937707-cap-type-c-lightning-1m-apple-mqgj2-trang-avatar-600x600.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2,
+            "total": 2
+        },
+        "viewCount": 25921,
+        "CategoryId": "9a51a9ab-5f81-4176-bfc9-2f59fc43916d",
+        "overlayPromotion": null,
+        "pOptions": [
+            {
+            "retailPrice": 249000,
+            "stock": 24,
+            "id": "ec9366c9-fef2-4e5b-beb0-b4f1a5ea56d1",
+            "name": "Trắng",
+            "images": [
+                "https://cdn.dienthoaigiakho.vn/photos/1653299262365-apple-1m-ctolightning.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1635938790864-apple-ltoc-2m2.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1635938790854-apple-ltoc-2m.jpg",
+                "https://cdn.dienthoaigiakho.vn/photos/1635938790871-apple-ltoc-2m3.jpg"
+            ],
+            "salePrice": 249000
+            }
+        ],
+        "preferences": [
+            {
+            "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+            "name": "Phụ kiện chính hãng 100% | Freeship",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2021-11-26T03:39:47.127Z",
+                "updatedAt": "2021-11-26T03:39:47.127Z",
+                "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "ProductId": "3b735e38-22b3-4df3-bb9b-8183dbc7d31b"
+            }
+            },
+            {
+            "id": "7814481d-82c7-4523-8585-74bbd431bb88",
+            "name": "Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+            "isActive": null,
+            "ProductPreferences": {
+                "createdAt": "2022-10-29T04:52:48.425Z",
+                "updatedAt": "2022-10-29T04:52:48.425Z",
+                "PreferenceId": "7814481d-82c7-4523-8585-74bbd431bb88",
+                "ProductId": "3b735e38-22b3-4df3-bb9b-8183dbc7d31b"
+            }
+            }
+        ]
+        },
+        {
+            "retailPrice": 219000,
+            "id": "886153f5-41d9-4baf-9d8d-bdee16d48d15",
+            "name": "Dây Cáp Chuyển Đổi Lightning Sang 3.5mm Apple MMX62 (Hàng Chính Hãng)",
+            "brand": "Apple",
+            "uri": "day-cap-chuyen-doi-lightning-sang-35mm-apple-mmx62-hang-chinh-hang-1545907290",
+            "price": 349000,
+            "salePrice": 219000,
+            "publish": true,
+            "isInstalment": true,
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1653298487199-apple-3.5mm.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1545907540307-77ba023003ace703396193ec7e9c9482.jpg",
+            "ratingScore": 0,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 0
+            },
+            "viewCount": 5611,
+            "CategoryId": "9a51a9ab-5f81-4176-bfc9-2f59fc43916d",
+            "overlayPromotion": {
+              "id": "3ee29060-c9c6-40b1-add0-fae31d6e6b93",
+              "name": "Hot Deal Today Only",
+              "icon": "https://cdn.dienthoaigiakho.vn/photos/1686211069469-Hot-Deal-Today-Badge.png"
+            },
+            "pOptions": [
+              {
+                "retailPrice": 219000,
+                "stock": 27,
+                "id": "8921ebe1-14e3-468e-a0e8-2617119e5925",
+                "name": "Trắng",
+                "images": [
+                  "https://cdn.dienthoaigiakho.vn/photos/1653298487199-apple-3.5mm.jpg",
+                  "https://cdn.dienthoaigiakho.vn/photos/1545907540307-77ba023003ace703396193ec7e9c9482.jpg"
+                ],
+                "salePrice": 219000
+              }
+            ],
+            "preferences": [
+              {
+                "id": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                "name": "Phụ kiện chính hãng 100% | Freeship",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2021-11-26T03:31:53.069Z",
+                  "updatedAt": "2021-11-26T03:31:53.069Z",
+                  "PreferenceId": "f50e3d2d-48c9-45ff-9004-61c6e62d76a6",
+                  "ProductId": "886153f5-41d9-4baf-9d8d-bdee16d48d15"
+                }
+              },
+              {
+                "id": "7814481d-82c7-4523-8585-74bbd431bb88",
+                "name": "Thanh toán online | Hỗ trợ cà thẻ tại nhà",
+                "isActive": null,
+                "ProductPreferences": {
+                  "createdAt": "2022-10-28T09:26:47.349Z",
+                  "updatedAt": "2022-10-28T09:26:47.349Z",
+                  "PreferenceId": "7814481d-82c7-4523-8585-74bbd431bb88",
+                  "ProductId": "886153f5-41d9-4baf-9d8d-bdee16d48d15"
+                }
+              }
+            ]
+        }
+    ],
+    "mac" : [
+        {
+            "retailPrice": 14989000,
+            "id": "fefcc683-ee83-4ce7-b2dd-db13fb19392f",
+            "uri": "macbook-air-2019-13-core-i5-8gb-128gb-ssd-cu-99-mvfm2-mvfh2-mvfk2-1598240777",
+            "price": 17489000,
+            "salePrice": 14989000,
+            "name": "MacBook Air 2019 13 Inch Core i5 8GB | 128GB SSD Cũ 99% (MVFM2, MVFH2, MVFK2)",
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651052230924-mbair2019-128gb-gr.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645081753647-1564754271564-MacBook-Air-2019-Gold-MVFM2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+            "ratingScore": 5,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 2,
+              "total": 2
+            },
+            "brand": "Apple",
+            "metadata": {
+              "title": "MacBook Air 2019 13 Inch Core i5 8GB | 128GB SSD Cũ 99% (MVFM2, MVFH2, MVFK2) | Giá rẻ có trả góp 0%",
+              "buyButton": {
+                "desc": "",
+                "title": "",
+                "bgColor": "",
+                "textColor": ""
+              },
+              "commercial": {
+                "gtin": null,
+                "image": "https://cdn.dienthoaigiakho.vn/photos/1645081753647-1564754271564-MacBook-Air-2019-Gold-MVFM2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+                "condition": "Used",
+                "dataCategory": "Laptop",
+                "dataLineProduct": "macbook-air-series",
+                "dataSubCategory": "MACBOOK"
+              },
+              "seoDescription": "MacBook Air 2019 13 Inch Core i5 8GB | 128GB SSD Cũ 99% (MVFM2, MVFH2, MVFK2) là một lựa chọn phù hợp nhất ở thời điểm hiện tại. Sản phẩm không chỉ"
+            },
+            "outOfStock": true,
+            "shortDescription": "<ul>\n<li>M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng</li>\n<li>Ngoại h&igrave;nh thẩm mỹ đẹp</li>\n<li>Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</li>\n</ul>",
+            "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+            "productSKU": "",
+            "viewCount": 12463
+        },
+        {
+        "retailPrice": 15789000,
+        "id": "5cf4facd-14c0-4992-bfba-85609e60486d",
+        "uri": "mac-mini-2023-chip-m2-8c-or-10c-gpu-or-8gb-ram-or-256gb-ssd-1675659483",
+        "price": 0,
+        "salePrice": 15789000,
+        "name": "Mac Mini 2023 Chip M2 8C | 10C GPU |  8GB RAM | 256GB SSD",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675658186456-Macmini-5.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675658186456-Macmini-5.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "APPLE",
+        "metadata": {
+            "title": "Mac Mini 2023 Chip M2 8C | 10C GPU |  8GB RAM | 256GB SSD | Uy Tín 100%, Giá Hấp Dẫn",
+            "buyButton": {
+            "desc": "Hotline: 1900 8922",
+            "title": "ĐĂNG KÝ NHẬN THÔNG TIN",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1675658186456-Macmini-5.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "mac-mini-2023",
+            "dataSubCategory": "Macbook"
+            },
+            "seoDescription": "Mac Mini 2023 Chip M2 Giá Hấp Dẫn, Uy Tín, mua ngay tại dienthoaigiakho.vn"
+        },
+        "outOfStock": true,
+        "shortDescription": "<ul>\n<li>M&aacute;y Fullbox chưa k&iacute;ch hoạt hệ thống Apple.</li>\n<li>Bộ sản phẩm gồm: S&aacute;ch hướng dẫn, Th&ugrave;ng m&aacute;y, C&aacute;p điện nguồn.</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 725
+        },
+        {
+        "retailPrice": 15789000,
+        "id": "65f5f200-e3f5-4d5f-bf9f-2e19f2f92a2e",
+        "uri": "macbook-air-2018-13-inch-core-i5-8gb-or-256gb-ssd-cu-99-1665561768",
+        "price": 19489000,
+        "salePrice": 15789000,
+        "name": "Macbook Air 2018 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MREC2, MRE92, MREF2)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1676863639773-air-2018-5-8-256-2.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651052439801-mbair2019-256gb-go.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "Macbook Air 2018 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MREF2) | Trả Góp 0%, Giá Tốt 2022",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1676863639772-air-2018-5-8-256-1.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-air-series",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "Macbook Air 2018 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MREF2), cam kết chính hãng, giao hàng tận nhà nhanh chóng."
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li>M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng</li>\n<li>Ngoại h&igrave;nh thẩm mỹ đẹp</li>\n<li>Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 4228
+        },
+        {
+        "retailPrice": 15989000,
+        "id": "2bd98d63-206f-4d3d-9ebd-3517fafb8775",
+        "uri": "macbook-air-2019-13-inch-core-i5-8gb-or-256gb-ssd-cu-99-mvfn2-mvfj2-1609931535",
+        "price": 19689000,
+        "salePrice": 15989000,
+        "name": "MacBook Air 2019 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MVFN2, MVFJ2)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1663051186929-MacBookAir-2019-Gr.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645081753647-1564754271564-MacBook-Air-2019-Gold-MVFM2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Air 2019 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MVFN2) | Dùng thử 168H miễn phí, Trả Góp 0%",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645081753647-1564754271564-MacBook-Air-2019-Gold-MVFM2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-air-series",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "Mua ngay MacBook Air 2019 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MVFN2) giá tốt nhất, giao hàng tận nhà miễn phí"
+        },
+        "outOfStock": true,
+        "shortDescription": "<ul>\n<li>M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng</li>\n<li>Ngoại h&igrave;nh thẩm mỹ đẹp</li>\n<li>Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 5425
+        },
+        {
+        "retailPrice": 16789000,
+        "id": "24c6484f-579a-47de-b317-59e9fe65f6db",
+        "uri": "macbook-air-2020-13-chip-m1-8gb-or-256gb-ssd-likenew-fullbox-mgn93-mgn63-mgnd3-1624848091",
+        "price": 25089000,
+        "salePrice": 16789000,
+        "name": "MacBook Air 2020 13 Inch Chip M1 8GB | 256GB SSD Likenew-Fullbox (MGN93, MGN63, MGND3)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651050305475-mbair2020-m1-256gb-gr.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1597295428398-banner-macbook-min.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "total": 1
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MGN63 - MacBook Air 2020 13 Inch Apple M1 8GB/256GB Likenew - Fullbox | Thu cũ đổi mới lên đời không mất phí",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1564757717882-MacBook-Air-2019-Gray-MVFH2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-air",
+            "dataSubCategory": "Macbook"
+            },
+            "seoDescription": "MGN63 - MacBook Air 2020 13 Inch Apple M1 8GB/256GB Likenew-Fullbox ra mắt trở thành phiên bản được yêu thích nhất của hệ người chơi cuồng"
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">M&aacute;y đ&atilde; qua sử dụng, đầy đủ hộp v&agrave; phụ kiện<br /></span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">Ngoại h&igrave;nh thẩm mỹ đẹp</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</span></li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 22079
+        },
+        {
+        "retailPrice": 16989000,
+        "id": "64853b29-87e7-406d-a5c9-4cc2ee49e0ea",
+        "uri": "macbook-pro-2019-13-core-i5-8gb-128gb-ssd-cu-99-muhn2-muhq2-1598242107",
+        "price": 23989000,
+        "salePrice": 16989000,
+        "name": "MacBook Pro 2019 13 Inch Core i5 8GB | 128GB SSD Cũ 99% (MUHN2, MUHQ2)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651049041443-mbpro2019-8th-13.3inch-128GB-si.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645082297424-1599117213138-macbook-pro-13-inch-2019-gray-dienthoaigiakho.jpg",
+        "ratingScore": 4,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0,
+            "total": 1
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Pro 2019 13 Inch Core i5 8GB | 128GB SSD Cũ 99% (MUHN2, MUHQ2) | Giá tiết kiệm. Bảo hành 6 tháng",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645082297424-1599117213138-macbook-pro-13-inch-2019-gray-dienthoaigiakho.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-pro-series",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "MacBook Pro 2019 13 Inch Core i5 8GB | 128GB SSD Cũ 99% (MUHN2, MUHQ2) dù ra mắt đã lâu nhưng vẫn là chiếc Macbook đáng mua ở thời điểm hiện tại. Theo dõi ngay nhé!"
+        },
+        "outOfStock": true,
+        "shortDescription": "<ul>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng<br /></span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">&nbsp;Ngoại h&igrave;nh thẩm mỹ đẹp</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</span></li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 10014
+        },
+        {
+        "retailPrice": 17489000,
+        "id": "f5954e0f-cb38-44ed-bad5-330f9012c063",
+        "uri": "macbook-air-2020-13-chip-m1-8gb-256gb-ssd-chinh-hang-mgn93-mgn63-mgnd3-1605773103",
+        "price": 22989000,
+        "salePrice": 17489000,
+        "name": "MacBook Air 2020 13 Inch Chip M1 8GB | 256GB SSD Chính Hãng (MGN93, MGN63, MGND3)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651050305454-mbair2020-m1-256gb-go.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645081624726-1564757717882-MacBook-Air-2019-Gray-MVFH2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+        "ratingScore": 4.9,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 19,
+            "total": 21
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Air 2020 13 Inch Chip M1 8GB | 256GB SSD Chính Hãng (MGN93, MGN63, MGND3) | Cấu hình mạnh, Giá hấp dẫn",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645081624726-1564757717882-MacBook-Air-2019-Gray-MVFH2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-air-2020",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "Có thể nói MacBook Air 2020 13 Inch Chip M1 8GB | 256GB SSD Chính Hãng (MGN93, MGN63, MGND3) là một trong những sản phẩm cực kỳ đáng mua."
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li>M&aacute;y mới nguy&ecirc;n hộp v&agrave; đầy đủ phụ kiện</li>\n<li>Bộ sản phẩm gồm: S&aacute;ch hướng dẫn, Th&ugrave;ng m&aacute;y, C&aacute;p, Sạc Apple</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 49194
+        },
+        {
+        "retailPrice": 17989000,
+        "id": "ac59bb40-7ba1-4dbc-8422-aac3c65aaa46",
+        "uri": "macbook-pro-2019-13-core-i5-8gb-256gb-ssd-cu-99-muhp2-1598241828",
+        "price": 25989000,
+        "salePrice": 17989000,
+        "name": "MacBook Pro 2019 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MUHP2)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651049174035-mbpro2019-8th-13.3inch-256GB-gr.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645082297424-1599117213138-macbook-pro-13-inch-2019-gray-dienthoaigiakho.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "total": 1
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Pro 2019 13\"  Core i5 8GB | 256GB SSD Cũ 99% (MUHP2) | Chất lượng chuẩn như mới, Giá hấp dẫn",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645082297424-1599117213138-macbook-pro-13-inch-2019-gray-dienthoaigiakho.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-pro-series",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "Tìm hiểu sản phẩm MacBook Pro 2019 13\"  Core i5 8GB | 256GB SSD Cũ 99% (MUHP2) có gì đặc biệt? Có nên mua sản phẩm cũ 99% hay không?"
+        },
+        "outOfStock": true,
+        "shortDescription": "<ul>\n<li>M&aacute;y đ&atilde; qua sử dụng.</li>\n<li>Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</li>\n<li>Ngoại h&igrave;nh đẹp như mới 99%.</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 12918
+        },
+        {
+        "retailPrice": 20989000,
+        "id": "189d5e09-e50c-4c13-bdf7-87a04bf52240",
+        "uri": "mac-mini-2023-chip-m2-8c-or-10c-gpu-or-8gb-ram-or-512gb-ssd-1675665802",
+        "price": 0,
+        "salePrice": 20989000,
+        "name": "Mac Mini 2023 Chip M2 8C | 10C GPU |  8GB RAM | 512GB SSD",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675658186456-Macmini-5.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1675658186456-Macmini-5.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "APPLE",
+        "metadata": {
+            "title": "Mac Mini 2023 Chip M2 8C | 10C GPU |  8GB RAM | 512GB SSD | Uy Tín 100%, Giá Hấp Dẫn",
+            "buyButton": {
+            "desc": "Hotline: 1900 8922",
+            "title": "ĐĂNG KÝ NHẬN THÔNG TIN",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1675658186456-Macmini-5.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "mac-mini-2023",
+            "dataSubCategory": "Macbook"
+            },
+            "seoDescription": "Mac Mini 2023 Chip M2 Giá Hấp Dẫn, Uy Tín, mua ngay tại dienthoaigiakho.vn"
+        },
+        "outOfStock": true,
+        "shortDescription": "<ul>\n<li>M&aacute;y Fullbox chưa k&iacute;ch hoạt hệ thống Apple.</li>\n<li>Bộ sản phẩm gồm: S&aacute;ch hướng dẫn, Th&ugrave;ng m&aacute;y, C&aacute;p điện nguồn.</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 895
+        },
+        {
+        "retailPrice": 20989000,
+        "id": "00176ba7-83c0-4344-8ee5-573aaa1a029a",
+        "uri": "macbook-pro-2020-13-inch-chip-m1-8gb-or-256gb-ssd-cu-99-myd82-myda2-1636450127",
+        "price": 29489000,
+        "salePrice": 20989000,
+        "name": "MacBook Pro 2020 13 Inch Chip M1 8GB | 256GB SSD Cũ 99% (MYD82, MYDA2)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1663836799545-m1-8g-256_result.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1589168755775-xmacbookpro2020-grey.jpeg.pagespeed.ic.9tcbm7oCFW.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Pro 2020 13 Inch Chip M1 8GB | 256GB SSD Cũ 99% (MYD82, MYDA2) | Chất Lượng 100%, Giá Ưu Đãi",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1599104741268-macbook-pro-13-inch-2020-silver-dienthoaigiakho.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-pro",
+            "dataSubCategory": "Macbook"
+            },
+            "seoDescription": "MacBook Pro 2020 13 Inch Chip M1 8GB | 256GB SSD Cũ 99% (MYD82, MYDA2) là một trong những dòng sản phẩm đang được bán rất chạy tại Điện Thoại Giá Kho"
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> Ngoại h&igrave;nh thẩm mỹ đẹp</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</span></li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 9469
+        },
+        {
+        "retailPrice": 22989000,
+        "id": "5fe013b0-2597-49df-94fa-b1059acab789",
+        "uri": "macbook-air-2020-13-chip-m1-8gb-512gb-ssd-chinh-hang-mgn73-mgna3-mgne3-1605772805",
+        "price": 28989000,
+        "salePrice": 22989000,
+        "name": "MacBook Air 2020 13 Inch Chip M1 8GB | 512GB SSD Chính Hãng (MGN73, MGNA3, MGNE3)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651050656448-mbair2020-m1-512gb-si.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645081624726-1564757717882-MacBook-Air-2019-Gray-MVFH2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2,
+            "total": 2
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Air 2020 13 Inch Chip M1 8GB | 512GB SSD Chính Hãng (MGN73, MGNA3, MGNE3) | Giá bán tốt nhất thị trường ",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645081624726-1564757717882-MacBook-Air-2019-Gray-MVFH2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-air-2020",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "Tìm hiểu chi tiết về sản phẩm MacBook Air 2020 13 Inch Chip M1 8GB | 512GB SSD Chính Hãng (MGN73, MGNA3, MGNE3), nên mua ở đâu để được giá tốt - chất lượng?"
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li>M&aacute;y mới nguy&ecirc;n hộp v&agrave; đầy đủ phụ kiện</li>\n<li>Bộ sản phẩm gồm: S&aacute;ch hướng dẫn, Th&ugrave;ng m&aacute;y, C&aacute;p, Sạc Apple</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 10758
+        },
+        {
+        "retailPrice": 23389000,
+        "id": "f52594d1-cce8-4914-a3e9-0b00bb8d01d6",
+        "uri": "macbook-air-2022-13-inch-chip-m2-8gb-or-256gb-ssd-likenew-fullbox-mlxy3-mlxw3-mly13-mly33-1680852682",
+        "price": 29989000,
+        "salePrice": 23389000,
+        "name": "MacBook Air 2022 13 Inch Chip M2 8GB | 256GB SSD Likenew - Fullbox (MLXY3, MLXW3, MLY13, MLY33)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1658485104318-mbair2022-m2-256gb-go.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1655452036715-macbookair-m2-sb-2.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Air 2022 13 Inch Chip M2 8GB | 256GB SSD Likenew - Fullbox (MLXY3, MLXW3, MLY13, MLY33) | Cấu Hình Mạnh Mẽ, Giá Rẻ Trầm Trồ",
+            "buyButton": {
+            "desc": "Đăng Ký Nhận Thông Tin",
+            "title": "HÀNG SẮP VỀ",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1655452036715-macbookair-m2-sb-2.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-air-2022",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "MacBook Air 2022 13 Inch Chip M2 8GB | 256GB SSD Likenew - Fullbox (MLXY3, MLXW3, MLY13, MLY33). Hàng Chất Giá Tốt. Trả Góp 0%. BH 06 Tháng. FreeShip."
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">M&aacute;y đ&atilde; qua sử dụng, đầy đủ hộp v&agrave; phụ kiện</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">Ngoại h&igrave;nh thẩm mỹ đẹp</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</span></li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 1390
+        },
+        {
+        "retailPrice": 23389000,
+        "id": "cbb74ff6-aa1c-44ca-b279-3e8efbe5b0a9",
+        "uri": "macbook-air-2020-13-core-i5-8gb-512gb-ssd-cu-99-mvh52-mvh22-1622016022",
+        "price": 27989000,
+        "salePrice": 23389000,
+        "name": "MacBook Air 2020 13 Inch Core i5 8GB | 512GB SSD Cũ 99% (MVH52, MVH22)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651051708442-mbair2020-i5-512gb-go.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645081753647-1564754271564-MacBook-Air-2019-Gold-MVFM2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Air 2020 13 Inch Core i5 8GB | 512GB SSD Cũ 99% (MVH52, MVH22) | Giá Tốt 2022, Chất Lượng 100%",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645081753647-1564754271564-MacBook-Air-2019-Gold-MVFM2-Core-i5-Ram-8GB-SSD-128GB-Touch-ID-.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-air-2020",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "Mua ngay MacBook Air 2020 13 Inch Core i5 8GB | 512GB SSD Cũ 99% (MVH52, MVH22) giao hàng tận nhà. Hỗ trợ mua hàng trả góp với 0% lãi suất. Bảo hành 12 tháng, cam kết chính hãng Apple chưa kích hoạt."
+        },
+        "outOfStock": true,
+        "shortDescription": "<ul>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> Ngoại h&igrave;nh thẩm mỹ đẹp</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</span></li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 23058
+        },
+        {
+        "retailPrice": 24289000,
+        "id": "8e976ddb-2121-4323-b380-89ba2dc23514",
+        "uri": "macbook-air-2022-13-chip-m2-8gb-or-256gb-ssd-chinh-hang-mlxy3-mlxw3-mly13-mly33-1655451541",
+        "price": 31989000,
+        "salePrice": 24289000,
+        "name": "MacBook Air 2022 13 Inch Chip M2 8GB | 256GB SSD Chính Hãng (MLXY3, MLXW3, MLY13, MLY33)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1658485104350-mbair2022-m2-256gb-midnight.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1655452036715-macbookair-m2-sb-2.jpg",
+        "ratingScore": 4.8,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 3,
+            "5": 16,
+            "total": 19
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Air 2022 13\" Chip M2 8GB | 256GB SSD Chính Hãng (MLXY3, MLXW3, MLY13, MLY33) | Cấu Hình Mạnh Mẽ, Giá Rẻ Trầm Trồ",
+            "buyButton": {
+            "desc": "Đăng Ký Nhận Thông Tin",
+            "title": "HÀNG SẮP VỀ",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1655452036715-macbookair-m2-sb-2.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-air-2022",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "MacBook Air 2022 13\" Chip M2 8GB | 256GB SSD Chính Hãng (MLXY3, MLXW3, MLY13, MLY33). Hàng Chất Giá Tốt. Trả Góp 0%. BH 12 Tháng. FreeShip."
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li>M&aacute;y mới nguy&ecirc;n hộp v&agrave; đầy đủ phụ kiện</li>\n<li>Bộ sản phẩm gồm: S&aacute;ch hướng dẫn, Th&ugrave;ng m&aacute;y, C&aacute;p, Sạc Apple</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 13490
+        },
+        {
+        "retailPrice": 24589000,
+        "id": "befa124b-1395-4535-ae47-868a211e679f",
+        "uri": "macbook-pro-2020-13-inch-chip-m1-8gb-or-512gb-ssd-cu-99-myd92-mydc2-1676627460",
+        "price": 41189000,
+        "salePrice": 24589000,
+        "name": "MacBook Pro 2020 13 Inch Chip M1 8GB | 512GB SSD Cũ 99% (MYD92, MYDC2)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651048706171-mbpro2020-10th-13.3inch-512GB-gr.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645082692006-1599108164687-macbook-pro-13-inch-2020-gray-dienthoaigiakho.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Pro 2020 13 Inch Chip M1 8GB | 512GB SSD Cũ 99% (MYD92, MYDC2) | Bảo hành chính hãng Apple, Hỗ trợ trả góp 0%",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645082692006-1599108164687-macbook-pro-13-inch-2020-gray-dienthoaigiakho.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-pro-2020",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "MacBook Pro 2020 13 Inch Chip M1 8GB | 512GB SSD Cũ 99% (MYD92, MYDC2) với hiệu năng mạnh mẽ hứa hẹn sẽ đem đến những trải nghiệm tuyệt vời. Mua ngay tại Giá Kho!"
+        },
+        "outOfStock": true,
+        "shortDescription": "<ul>\n<li>M&aacute;y Fullbox chưa k&iacute;ch hoạt hệ thống Apple.</li>\n<li>Bộ sản phẩm gồm: S&aacute;ch hướng dẫn, Th&ugrave;ng m&aacute;y, C&aacute;p, Sạc Apple.</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 1080
+        },
+        {
+        "retailPrice": 24989000,
+        "id": "fe776427-ea1f-4705-ac1d-8efe1f23c9cc",
+        "uri": "macbook-pro-2022-13-inch-chip-m2-8gb-or-256gb-ssd-likenew-fullbox-mneh3-mnep3-1661159356",
+        "price": 32889000,
+        "salePrice": 24989000,
+        "name": "MacBook Pro 2022 13 Inch Chip M2 8GB | 256GB SSD Likenew - Fullbox  (MNEH3, MNEP3)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1658484826130-mb-pro-m2-256-gr.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1655448791403-mbpr-m2-2022-gr-2.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Pro 2022 13\" Chip M2 8GB | 256GB SSD Likenew - Fullbox (MNEH3, MNEP3) | Cấu Hình Mạnh Mẽ, Giá Rẻ Trầm Trồ",
+            "buyButton": {
+            "desc": "Đăng Ký Nhận Thông Tin",
+            "title": "HÀNG SẮP VỀ",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1655448791403-mbpr-m2-2022-gr-2.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-pro-2022",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "MacBook Pro 2022 13\" Chip M2 8GB | 256GB SSD Likenew - Fullbox (MNEH3, MNEP3). Hàng Chất Giá Tốt. Trả Góp 0%. BH 06 Tháng. FreeShip."
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> M&aacute;y đ&atilde; qua sử dụng, đầy đủ hộp v&agrave; phụ kiện<br /></span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\">Ngoại h&igrave;nh thẩm mỹ đẹp</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</span></li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 5284
+        },
+        {
+        "retailPrice": 25989000,
+        "id": "c61928cd-b469-4a9b-b42c-1dc782dbcd68",
+        "uri": "imac-2021-m1-24-inch-retina-45k-7gpu-8g-256gb-ssd-chinh-hang-1622550853",
+        "price": 34990000,
+        "salePrice": 25989000,
+        "name": "iMac 2021 M1 24 Inch Retina 4.5K 7GPU/ 8G/ 256GB SSD Chính Hãng",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645083811857-1622544765863-imac2021-white1-min.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645083811857-1622544765863-imac2021-white1-min.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "iMac 2021 M1 24 inch Retina 4.5K 7GPU/ 8G/ 256GB SSD Chính Hãng | Trả góp xét duyệt nhanh",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645083811857-1622544765863-imac2021-white1-min.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "imac-2021",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "iMac 2021 M1 24 inch Retina 4.5K 8GPU/ 8G/ 256GB SSD Chính Hãng Giá Tốt Nhất Tại Điện Thoại Giá Kho. Hãy xem qua các tính năng vượt trội nhé!"
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li>M&aacute;y đầy đủ hộp v&agrave; phụ kiện, chưa k&iacute;ch hoạt từ hệ thống Apple.</li>\n<li>Bộ sản phẩm bao gồm: m&aacute;y, b&agrave;n ph&iacute;m Apple Magic, chuột Apple Magic 2, c&aacute;p sạc, c&aacute;p chuyển Lightning to USB Cable, hộp, s&aacute;ch hướng dẫn.</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 23863
+        },
+        {
+        "retailPrice": 25989000,
+        "id": "e2fe5915-efee-4ae9-9409-430814a79866",
+        "uri": "macbook-pro-2020-13-chip-m1-8gb-256gb-ssd-chinh-hang-myd82-myda2-1605774889",
+        "price": 36089000,
+        "salePrice": 25989000,
+        "name": "MacBook Pro 2020 13 Inch Chip M1 8GB | 256GB SSD Chính Hãng (MYD82, MYDA2)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651048000971-mbpro2020-m1-13.3inch-256GB-gr.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645082692006-1599108164687-macbook-pro-13-inch-2020-gray-dienthoaigiakho.jpg",
+        "ratingScore": 5,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 18,
+            "total": 18
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Pro 2020 13 Inch Chip M1 8GB | 256GB SSD Chính Hãng (MYD82, MYDA2) | Nguyên seal chưa active, Giá cực tốt",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1645082692006-1599108164687-macbook-pro-13-inch-2020-gray-dienthoaigiakho.jpg",
+            "condition": "New",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-pro-2020",
+            "dataSubCategory": "MACBOOK"
+            },
+            "seoDescription": "Tìm hiểu thông tin chi tiết về thiết kế và tính năng sản phẩm MacBook Pro 2020 13 Inch Chip M1 8GB | 256GB SSD Chính Hãng (MYD82, MYDA2)."
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li>M&aacute;y mới nguy&ecirc;n hộp v&agrave; đầy đủ phụ kiện</li>\n<li>Bộ sản phẩm gồm: S&aacute;ch hướng dẫn, Th&ugrave;ng m&aacute;y, C&aacute;p, Sạc Apple</li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 11207
+        
+        },
+        {
+        "retailPrice": 26989000,
+        "id": "bc09055b-11f8-4afd-9f1e-a0cd3c4af806",
+        "uri": "macbook-pro-2020-13-inch-chip-m1-option-16gb-or-256gb-ssd-cu-99-myd82o-myda2o-1680850451",
+        "price": 35989000,
+        "salePrice": 26989000,
+        "name": "MacBook Pro 2020 13 Inch Chip M1 16GB | 256GB SSD Cũ 99% (MYD82O, MYDA2O)",
+        "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1680851764448-mbpro2020-m1-16gb-13.3inch-256GB-gr.jpg",
+        "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1589168755775-xmacbookpro2020-grey.jpeg.pagespeed.ic.9tcbm7oCFW.jpg",
+        "ratingScore": 0,
+        "ratingSummary": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "brand": "Apple",
+        "metadata": {
+            "title": "MacBook Pro 2020 13 Inch Chip M1 16GB | 256GB SSD Cũ 99% (MYD82O, MYDA2O) | Chất Lượng 100%, Giá Ưu Đãi",
+            "buyButton": {
+            "desc": "",
+            "title": "",
+            "bgColor": "",
+            "textColor": ""
+            },
+            "commercial": {
+            "gtin": null,
+            "image": "https://cdn.dienthoaigiakho.vn/photos/1599104741268-macbook-pro-13-inch-2020-silver-dienthoaigiakho.jpg",
+            "condition": "Used",
+            "dataCategory": "Laptop",
+            "dataLineProduct": "macbook-pro",
+            "dataSubCategory": "Macbook"
+            },
+            "seoDescription": "MacBook Pro 2020 13 Inch Chip M1 16GB | 256GB SSD Cũ 99% (MYD82O, MYDA2O) là một trong những dòng sản phẩm đang được bán rất chạy tại Điện Thoại Giá Kho"
+        },
+        "outOfStock": false,
+        "shortDescription": "<ul>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> Ngoại h&igrave;nh thẩm mỹ đẹp</span></li>\n<li><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;- M&aacute;y trần kh&ocirc;ng hộp, đ&atilde; qua sử dụng\\n- Ngoại h&igrave;nh thẩm mỹ đẹp\\n- Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:641,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:1,&quot;12&quot;:0}\"> Cam kết m&aacute;y nguy&ecirc;n bản ch&iacute;nh h&atilde;ng Apple.</span></li>\n</ul>",
+        "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+        "productSKU": "",
+        "viewCount": 912
+        },
+        {
+            "retailPrice": 27789000,
+            "id": "f1bc6773-6b1b-4d21-8943-dcd06709f5f4",
+            "uri": "macbook-pro-2020-13-chip-m1-8gb-512gb-ssd-chinh-hang-myd92-mydc2-1605773820",
+            "price": 37389000,
+            "salePrice": 27789000,
+            "name": "MacBook Pro 2020 13 Inch Chip M1 8GB | 512GB SSD Chính Hãng (MYD92, MYDC2)",
+            "productPhoto": "https://cdn.dienthoaigiakho.vn/photos/1651048214594-mbpro2020-m1-13.3inch-512GB-gr.jpg",
+            "promoPhoto": "https://cdn.dienthoaigiakho.vn/photos/1645082692006-1599108164687-macbook-pro-13-inch-2020-gray-dienthoaigiakho.jpg",
+            "ratingScore": 5,
+            "ratingSummary": {
+              "1": 0,
+              "2": 0,
+              "3": 0,
+              "4": 0,
+              "5": 1,
+              "total": 1
+            },
+            "brand": "Apple",
+            "metadata": {
+              "title": "MacBook Pro 2020 13 Inch Chip M1 8GB | 512GB SSD Chính Hãng (MYD92, MYDC2) | Bảo hành chính hãng Apple, Hỗ trợ trả góp 0%",
+              "buyButton": {
+                "desc": "",
+                "title": "",
+                "bgColor": "",
+                "textColor": ""
+              },
+              "commercial": {
+                "gtin": null,
+                "image": "https://cdn.dienthoaigiakho.vn/photos/1645082692006-1599108164687-macbook-pro-13-inch-2020-gray-dienthoaigiakho.jpg",
+                "condition": "New",
+                "dataCategory": "Laptop",
+                "dataLineProduct": "macbook-pro-2020",
+                "dataSubCategory": "MACBOOK"
+              },
+              "seoDescription": "MacBook Pro 2020 13 Inch Chip M1 8GB | 512GB SSD Chính Hãng (MYD92, MYDC2) với hiệu năng mạnh mẽ hứa hẹn sẽ đem đến những trải nghiệm tuyệt vời. Mua ngay tại Giá Kho!"
+            },
+            "outOfStock": false,
+            "shortDescription": "<ul>\n<li>M&aacute;y mới nguy&ecirc;n hộp v&agrave; đầy đủ phụ kiện</li>\n<li>Bộ sản phẩm gồm: S&aacute;ch hướng dẫn, Th&ugrave;ng m&aacute;y, C&aacute;p, Sạc Apple</li>\n</ul>",
+            "CategoryId": "2499807d-2507-453a-ac4c-4bc0635205dd",
+            "productSKU": "",
+            "viewCount": 14338
+        }
+    ]
+
+}
