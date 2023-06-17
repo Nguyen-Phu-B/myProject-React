@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "../CSS/content.css";
-import useHookGetProduct from "../Hooks/getProduct";
+import useHookGetProduct from "../Hooks/useGetProduct";
 
 const Content = ({ tittleContent, dataName }) => {
     const { listIphone, listAppleWatch, listIpad, listPhuKien, listMac } =
@@ -28,7 +28,7 @@ const Content = ({ tittleContent, dataName }) => {
             </div>
             <div className="box-booth">
                 {validateMac == "mac"
-                    ? productList.reverse().map((item, indexItem) => {
+                    ? productList.toReversed().map((item, indexItem) => {
                           return (
                               <div className="box-product" key={indexItem + 1}>
                                   <div
@@ -52,11 +52,11 @@ const Content = ({ tittleContent, dataName }) => {
                                       </a>
                                   </div>
                                   <div className="box-price">
-                                      <div className="price-actual">
-                                          {item.price}
+                                      <div className="price-actual number">
+                                          {item.price.toLocaleString()}
                                       </div>
-                                      <div className="price-old">
-                                          {item.retailPrice}
+                                      <div className="price-old number">
+                                          {item.retailPrice.toLocaleString()}
                                       </div>
                                   </div>
                                   <div className="btn-add-cart">
@@ -108,10 +108,10 @@ const Content = ({ tittleContent, dataName }) => {
                                       </div>
                                       <div className="box-price">
                                           <div className="price-actual">
-                                              {item.price}
+                                              {item.price.toLocaleString()}
                                           </div>
                                           <div className="price-old">
-                                              {item.retailPrice}
+                                              {item.retailPrice.toLocaleString()}
                                           </div>
                                       </div>
                                       <div className="btn-add-cart">
