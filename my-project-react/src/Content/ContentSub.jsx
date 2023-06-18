@@ -2,7 +2,13 @@ import { useEffect, useState } from "react";
 import RenderProduct from "../Components/RenderProduct";
 import dataProductDf from "../Mocks/apiDTGK.json";
 
-const ContentSub = ({ contentKey, keyData, tittle, onClickTittle }) => {
+const ContentSub = ({
+    classLimit,
+    contentKey,
+    keyData,
+    tittle,
+    onClickTittle,
+}) => {
     const [product, setProduct] = useState([]);
     const [dataList, setDataList] = useState(dataProductDf);
 
@@ -50,16 +56,17 @@ const ContentSub = ({ contentKey, keyData, tittle, onClickTittle }) => {
                               return (
                                   <RenderProduct
                                       item={item}
+                                      classBox={classLimit}
                                       key={generateUniqueKey()}
                                   />
                               );
                           })
                         : product.map((item) => {
                               return item.pOptions.map((itemSub) => {
-                                  //   console.log("sub", itemSub);
                                   return (
                                       <RenderProduct
                                           item={item}
+                                          classBox={classLimit}
                                           itemSub={itemSub}
                                           key={generateUniqueKey()}
                                       />

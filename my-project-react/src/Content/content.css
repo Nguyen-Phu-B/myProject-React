@@ -25,7 +25,7 @@
     margin-bottom: 80px;
 }
 
-.box-booth .box-product:nth-child(n+9) {
+.box-booth .box-limit:nth-child(n+9) {
     display: none;
 }
 
@@ -37,7 +37,6 @@
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     margin: 0 10px 36px;
-
 }
 
 .box-product .box-img {

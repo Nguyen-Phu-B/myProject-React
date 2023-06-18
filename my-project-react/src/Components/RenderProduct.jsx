@@ -1,6 +1,6 @@
-const RenderProduct = ({ item, itemSub }) => {
+const RenderProduct = ({ item, itemSub, classBox = "" }) => {
     return (
-        <div className="box-product">
+        <div className={classBox + " box-product"}>
             <div className="box-img">
                 <a href="">
                     <img src={item.productPhoto || item.promoPhoto} alt={""} />

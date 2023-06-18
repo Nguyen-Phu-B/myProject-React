@@ -22,24 +22,29 @@ const Content = () => {
                 <ContentSub
                     keyData={"iphone"}
                     tittle={"Iphone"}
+                    classLimit="box-limit"
                     onClickTittle={(e) => handleClickTittle(e, "iphone")}
                 />
                 <ContentSub
+                    classLimit="box-limit"
                     keyData={"ipad"}
                     tittle={"Ipad"}
                     onClickTittle={(e) => handleClickTittle(e, "ipad")}
                 />
                 <ContentSub
+                    classLimit="box-limit"
                     keyData={"mac"}
                     tittle={"MacBook"}
                     onClickTittle={(e) => handleClickTittle(e, "mac")}
                 />
                 <ContentSub
+                    classLimit="box-limit"
                     keyData={"apw"}
                     tittle={"Apple Watch"}
                     onClickTittle={(e) => handleClickTittle(e, "apw")}
                 />
                 <ContentSub
+                    classLimit="box-limit"
                     keyData={"phukien"}
                     tittle={"Phụ kiện"}
                     onClickTittle={(e) => handleClickTittle(e, "phukien")}
