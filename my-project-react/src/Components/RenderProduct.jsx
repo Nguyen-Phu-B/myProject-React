@@ -13,10 +13,10 @@ const RenderProduct = ({ item, itemSub, classBox = "" }) => {
             </div>
             <div className="box-price">
                 <div className="price-actual number">
-                    {item.price.toLocaleString()}
+                    {item.retailPrice.toLocaleString()}
                 </div>
                 <div className="price-old number">
-                    {item.retailPrice.toLocaleString()}
+                    {item.price.toLocaleString()}
                 </div>
             </div>
             <div className="btn-add-cart">
