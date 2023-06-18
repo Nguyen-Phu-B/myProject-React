@@ -3,18 +3,18 @@ import "../Footer/cssFooter.css";
 const Footer = () => {
     return (
         <div className="footer-df">
-            <div class="footer-container">
-                <div class="footer-follow">
-                    <div class="ft-fl-logo">
+            <div className="footer-container">
+                <div className="footer-follow">
+                    <div className="ft-fl-logo">
                         <a href="#">
                             <img
-                                class="ft-img"
+                                className="ft-img"
                                 src="https://shopdunk.com/images/thumbs/0012445_Logo_ShopDunk.png"
                                 alt="Shopdunk"
                             />
                         </a>
                     </div>
-                    <div class="ft-fl-about">
+                    <div className="ft-fl-about">
                         <p>
                             Năm 2020, ShopDunk trở thành đại lý ủy quyền của
                             Apple. Chúng tôi phát triển chuỗi cửa hàng tiêu
@@ -23,32 +23,32 @@ const Footer = () => {
                             dùng Việt Nam.
                         </p>
                     </div>
-                    <div class="ft-fl-social">
-                        <div class="ft-icon-social">
+                    <div className="ft-fl-social">
+                        <div className="ft-icon-social">
                             <a href="#">
-                                <i class="fa-brands fa-facebook fa-2xl"></i>
+                                <i className="fa-brands fa-facebook fa-2xl"></i>
                             </a>
                         </div>
-                        <div class="ft-icon-social">
+                        <div className="ft-icon-social">
                             <a href="#">
-                                <i class="fa-brands fa-tiktok fa-2xl"></i>
+                                <i className="fa-brands fa-tiktok fa-2xl"></i>
                             </a>
                         </div>
-                        <div class="ft-icon-social">
+                        <div className="ft-icon-social">
                             <a href="#">
-                                <i class="fa-brands fa-instagram fa-2xl"></i>
+                                <i className="fa-brands fa-instagram fa-2xl"></i>
                             </a>
                         </div>
-                        <div class="ft-icon-social">
+                        <div className="ft-icon-social">
                             <a href="#">
-                                <i class="fa-brands fa-youtube fa-2xl"></i>
+                                <i className="fa-brands fa-youtube fa-2xl"></i>
                             </a>
                         </div>
                     </div>
                 </div>
-                <div class="footer-infomation">
-                    <div class="ft-header">Thông tin</div>
-                    <ul class="ft-list">
+                <div className="footer-infomation">
+                    <div className="ft-header">Thông tin</div>
+                    <ul className="ft-list">
                         <li>
                             <a href="">Tin tức</a>
                         </li>
@@ -72,9 +72,9 @@ const Footer = () => {
                         </li>
                     </ul>
                 </div>
-                <div class="footer-service">
-                    <div class="ft-header">Chính sách</div>
-                    <ul class="ft-list">
+                <div className="footer-service">
+                    <div className="ft-header">Chính sách</div>
+                    <ul className="ft-list">
                         <li>
                             <a href="#">Thu cũ đổi mới</a>
                         </li>
@@ -101,9 +101,9 @@ const Footer = () => {
                         </li>
                     </ul>
                 </div>
-                <div class="footer-account">
-                    <div class="ft-header">Địa chỉ & liên hệ</div>
-                    <ul class="ft-list">
+                <div className="footer-account">
+                    <div className="ft-header">Địa chỉ & liên hệ</div>
+                    <ul className="ft-list">
                         <li>
                             <a href="#">Tài khoản của tôi</a>
                         </li>
