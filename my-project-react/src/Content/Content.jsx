@@ -13,6 +13,7 @@ const Content = () => {
 
         console.log("click", prKey);
         setKeyContent(prKey);
+        window.scrollTo(0, 0);
     };
 
     if (keyContent == "alls") {
@@ -46,6 +47,7 @@ const Content = () => {
             </>
         );
     }
+
     if (keyContent == "iphone") {
         return (
             <>
@@ -57,6 +59,7 @@ const Content = () => {
             </>
         );
     }
+
     if (keyContent == "ipad") {
         return (
             <>
@@ -68,6 +71,7 @@ const Content = () => {
             </>
         );
     }
+
     if (keyContent == "mac") {
         return (
             <>
@@ -79,6 +83,7 @@ const Content = () => {
             </>
         );
     }
+
     if (keyContent == "apw") {
         return (
             <>
@@ -90,6 +95,7 @@ const Content = () => {
             </>
         );
     }
+
     if (keyContent == "phukien") {
         return (
             <>
