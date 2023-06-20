@@ -9,19 +9,12 @@ const NavMenu = () => {
             {listNav.map((item, index) => {
                 return (
                     <li key={index}>
-                        <a href={"allProduct.html?" + item.href}>
-                            {item.title}
-                        </a>
+                        <a href={"?" + item.href}>{item.title}</a>
                         <ul className="subnav">
                             {item.subnav.map((subItem, subIndex) => {
                                 return (
                                     <li key={subIndex}>
-                                        <a
-                                            href={
-                                                "allProduct.html?" +
-                                                subItem.href
-                                            }
-                                        >
+                                        <a href={"?" + subItem.href}>
                                             {subItem.titleSub}
                                         </a>
                                     </li>

@@ -6,7 +6,7 @@ import { useEffect } from "react";
 const Content = () => {
     const [keyContent, setKeyContent] = useState("alls");
 
-    useEffect(() => {}, [keyContent]);
+    // useEffect(() => {}, [keyContent]);
 
     const handleClickTittle = (e, prKey) => {
         e.preventDefault();

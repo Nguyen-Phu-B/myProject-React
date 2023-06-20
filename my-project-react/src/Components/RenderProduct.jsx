@@ -1,14 +1,20 @@
 const RenderProduct = ({ item, itemSub, classBox = "" }) => {
+    {
+        console.log({ name: item.name + " " + itemSub?.name, id: item?.id });
+    }
     return (
         <div className={classBox + " box-product"}>
             <div className="box-img">
-                <a href="">
-                    <img src={item.productPhoto || item.promoPhoto} alt={""} />
+                <a href={"?" + (itemSub?.id || item?.id)}>
+                    <img
+                        src={itemSub?.images[0] || item.productPhoto}
+                        alt={""}
+                    />
                 </a>
             </div>
             <div className="box-title">
                 <a href="" title={""}>
-                    {item.name + "" + itemSub?.name}
+                    {item.name + " " + itemSub?.name}
                 </a>
             </div>
             <div className="box-price">
