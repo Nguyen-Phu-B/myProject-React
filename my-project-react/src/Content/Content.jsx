@@ -1,57 +1,22 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import ContentSub from "./ContentSub";
 import "./content.css";
-import { useEffect } from "react";
+import ContentDetail from "./ContentDetail";
 
 const Content = () => {
-    const [keyContent, setKeyContent] = useState("alls");
+    const [keyContent, setKeyContent] = useState("");
 
-    // useEffect(() => {}, [keyContent]);
+    let url = window.location.href;
+    let splitUrl = url.split("?")[1];
+
+    useEffect(() => {
+        setKeyContent(splitUrl);
+    }, [keyContent]);
 
     const handleClickTittle = (e, prKey) => {
-        e.preventDefault();
-
-        console.log("click", prKey);
-        setKeyContent(prKey);
+        // e.preventDefault();
         window.scrollTo(0, 0);
     };
-
-    if (keyContent == "alls") {
-        return (
-            <>
-                <ContentSub
-                    keyData={"iphone"}
-                    tittle={"Iphone"}
-                    classLimit="box-limit"
-                    onClickTittle={(e) => handleClickTittle(e, "iphone")}
-                />
-                <ContentSub
-                    classLimit="box-limit"
-                    keyData={"ipad"}
-                    tittle={"Ipad"}
-                    onClickTittle={(e) => handleClickTittle(e, "ipad")}
-                />
-                <ContentSub
-                    classLimit="box-limit"
-                    keyData={"mac"}
-                    tittle={"MacBook"}
-                    onClickTittle={(e) => handleClickTittle(e, "mac")}
-                />
-                <ContentSub
-                    classLimit="box-limit"
-                    keyData={"apw"}
-                    tittle={"Apple Watch"}
-                    onClickTittle={(e) => handleClickTittle(e, "apw")}
-                />
-                <ContentSub
-                    classLimit="box-limit"
-                    keyData={"phukien"}
-                    tittle={"Phụ kiện"}
-                    onClickTittle={(e) => handleClickTittle(e, "phukien")}
-                />
-            </>
-        );
-    }
 
     if (keyContent == "iphone") {
         return (
@@ -113,7 +78,44 @@ const Content = () => {
         );
     }
 
-    return null;
+    if (!keyContent) {
+        return (
+            <>
+                <ContentSub
+                    keyData={"iphone"}
+                    tittle={"Iphone"}
+                    classLimit="box-limit"
+                    onClickTittle={(e) => handleClickTittle(e, "iphone")}
+                />
+                <ContentSub
+                    classLimit="box-limit"
+                    keyData={"ipad"}
+                    tittle={"Ipad"}
+                    onClickTittle={(e) => handleClickTittle(e, "ipad")}
+                />
+                <ContentSub
+                    classLimit="box-limit"
+                    keyData={"mac"}
+                    tittle={"MacBook"}
+                    onClickTittle={(e) => handleClickTittle(e, "mac")}
+                />
+                <ContentSub
+                    classLimit="box-limit"
+                    keyData={"apw"}
+                    tittle={"Apple Watch"}
+                    onClickTittle={(e) => handleClickTittle(e, "apw")}
+                />
+                <ContentSub
+                    classLimit="box-limit"
+                    keyData={"phukien"}
+                    tittle={"Phụ kiện"}
+                    onClickTittle={(e) => handleClickTittle(e, "phukien")}
+                />
+            </>
+        );
+    }
+
+    return <ContentDetail prUrl={keyContent} />;
 };
 
 export default Content;

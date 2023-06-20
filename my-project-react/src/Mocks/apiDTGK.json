@@ -4,7 +4,7 @@
             "retailPrice": 23389000,
             "id": "4811b23e-4d0f-4c06-9729-5dfdbbb307a7",
             "name": "iPhone 14 Pro 128GB Chính Hãng VN/A",
-            "brand": "Apple",
+            "brand": "iphone",
             "uri": "iphone-14-pro-128gb-chinh-hang-vna-1662623910",
             "price": 27989000,
             "salePrice": 23389000,
@@ -140,7 +140,7 @@
         "retailPrice": 25289000,
         "id": "8970459c-0d4b-4515-aeed-873f4c3eddda",
         "name": "iPhone 14 Pro Max 128GB Chính Hãng VN/A",
-        "brand": "Apple",
+        "brand": "iphone",
         "uri": "iphone-14-pro-max-128gb-chinh-hang-vna-1662624960",
         "price": 29989000,
         "salePrice": 25289000,
@@ -276,7 +276,7 @@
         "retailPrice": 21489000,
         "id": "61a8791e-9410-426c-95d8-37cef799beb5",
         "name": "iPhone 14 Plus 128GB Vàng Chính Hãng VN/A",
-        "brand": "Apple",
+        "brand": "iphone",
         "uri": "iphone-14-plus-128gb-vang-chinh-hang-vna-1678865302",
         "price": 26989000,
         "salePrice": 21489000,
@@ -354,7 +354,7 @@
         "retailPrice": 14989000,
         "id": "793b7b35-70e9-450b-bbcc-14357f391b24",
         "name": "iPhone 13 128GB Chính Hãng VN/A",
-        "brand": "Apple",
+        "brand": "iphone",
         "uri": "iphone-13-128gb-chinh-hang-vna-moi-nguyen-seal-chua-kich-hoat-1631702958",
         "price": 18989000,
         "salePrice": 14989000,
@@ -518,7 +518,7 @@
             "retailPrice": 9789000,
             "id": "31eb2cab-dd04-4f7c-8761-e2861d9f5c44",
             "name": "iPhone 11 64GB Chính Hãng VN/A",
-            "brand": "Apple",
+            "brand": "iphone",
             "uri": "iphone-11-64gb-vna-moi-nguyen-seal-chua-kich-hoat-1593602652",
             "price": 14989000,
             "salePrice": 9789000,
@@ -660,7 +660,7 @@
             "retailPrice": 18789000,
             "id": "0b84709c-9b6c-4428-9fa3-bf3c7e64c913",
             "name": "Apple Watch Ultra 49mm LTE Viền Titanium Dây Ocean Chính Hãng VN/A",
-            "brand": "APPLE",
+            "brand": "apw",
             "uri": "apple-watch-ultra-49mm-lte-vien-titanium-day-ocean-chinh-hang-vna-1662776546",
             "price": 23989000,
             "salePrice": 18789000,
@@ -761,7 +761,7 @@
         "retailPrice": 5989000,
         "id": "15961aac-04a9-4c6a-a17d-97c9462af0e6",
         "name": "Apple Watch SE 2 40mm Viền Nhôm Mới VN/A",
-        "brand": "APPLE",
+        "brand": "apw",
         "uri": "apple-watch-se-2-40mm-gps-vien-nhom-chinh-hang-vna-1662709214",
         "price": 7489000,
         "salePrice": 5989000,
@@ -862,7 +862,7 @@
         "retailPrice": 6589000,
         "id": "b356529e-5506-48f0-bf16-0ceedc617ce2",
         "name": "Apple Watch SE 2 44mm Viền Nhôm Mới VN/A",
-        "brand": "APPLE",
+        "brand": "apw",
         "uri": "apple-watch-se-2-44mm-gps-vien-nhom-chinh-hang-vna-1662711370",
         "price": 8489000,
         "salePrice": 6589000,
@@ -963,7 +963,7 @@
         "retailPrice": 8789000,
         "id": "5086471f-4b6b-45b0-8d1c-f5fe42037a0e",
         "name": "Apple Watch Series 8 41mm Viền Nhôm VN/A",
-        "brand": "APPLE",
+        "brand": "apw",
         "uri": "apple-watch-series-8-41mm-gps-vien-nhom-chinh-hang-vna-1662690269",
         "price": 11989000,
         "salePrice": 8789000,
@@ -1072,7 +1072,7 @@
             "retailPrice": 18789000,
             "id": "7eee5cc6-3b22-44fe-a74b-ad625a0a8d42",
             "name": "Apple Watch Ultra 49mm LTE Viền Titanium Dây Alpine Chính Hãng VN/A",
-            "brand": "APPLE",
+            "brand": "apw",
             "uri": "apple-watch-ultra-49mm-lte-vien-titanium-day-alpine-chinh-hang-vna-1662779283",
             "price": 23989000,
             "salePrice": 18789000,
@@ -1178,7 +1178,7 @@
             "retailPrice": 10789000,
             "id": "b3a76f36-1eb3-4b80-a3a1-7693f8a9d69b",
             "name": "iPad Mini 6 8.3 inch 2021 Wifi 64GB Chính Hãng",
-            "brand": "Apple",
+            "brand": "ipad",
             "uri": "ipad-mini-6-83-inch-wifi-64gb-2021-moi-fullbox-1631848597",
             "price": 12989000,
             "salePrice": 10789000,
@@ -1301,7 +1301,7 @@
         "retailPrice": 13289000,
         "id": "a7a0cb36-919f-4150-a23c-42179bf517b0",
         "name": "iPad Air 4 10.9 inch 2020 Wifi Cellular 64GB Chính Hãng",
-        "brand": "Apple",
+        "brand": "ipad",
         "uri": "ipad-air-4-109-inch-wifi-cellular-64gb-2020-moi-nguyen-seal-chua-kich-hoat-1600232517",
         "price": 20989000,
         "salePrice": 13289000,
@@ -1418,7 +1418,7 @@
         "retailPrice": 16989000,
         "id": "87b22c84-88b3-49ea-852b-bad2c5e90c51",
         "name": "iPad Air 5 10.9 inch 2022 Wifi 256GB Chính Hãng",
-        "brand": "Apple",
+        "brand": "ipad",
         "uri": "ipad-air-5-109-inch-wifi-256gb-2022-chinh-hang-1646816770",
         "price": 20989000,
         "salePrice": 16989000,
@@ -1554,7 +1554,7 @@
         "retailPrice": 6389000,
         "id": "bd2b2ce3-3be3-41b2-802e-e7261c102df4",
         "name": "iPad Gen 9 10.2 inch Wifi 64GB Chính Hãng",
-        "brand": "Apple",
+        "brand": "ipad",
         "uri": "ipad-gen-9-102-inch-wifi-64gb-fullbox-da-kich-hoat-1651045079",
         "price": 9989000,
         "salePrice": 6389000,
@@ -1647,7 +1647,7 @@
             "retailPrice": 22789000,
             "id": "7316ed6e-5958-42dd-8fe4-645a413e7d9b",
             "name": "iPad Pro M1 11 inch 2021 Wifi 5G 256GB Chính Hãng",
-            "brand": "Apple",
+            "brand": "ipad",
             "uri": "ipad-pro-m1-11-inch-2021-wifi-cellular-256gb-chinh-hang-1619079741",
             "price": 29989000,
             "salePrice": 22789000,
@@ -1740,7 +1740,7 @@
             "retailPrice": 4999000,
             "id": "fde10940-5bf0-46bd-9f18-d96047b3d552",
             "name": "Tai Nghe Apple AirPods Pro 2 Magsafe Charge 2022 Chính Hãng",
-            "brand": "Apple",
+            "brand": "phukien",
             "uri": "tai-nghe-apple-airpods-pro-2-magsafe-charge-2022-chinh-hang-1663842113",
             "price": 6989000,
             "salePrice": 4999000,
@@ -1850,7 +1850,7 @@
         "retailPrice": 2549000,
         "id": "6910df4f-ddf9-48f2-b10e-c6f4b4bc0205",
         "name": "Tai nghe Apple AirPods 2 Hộp Sạc Có Dây Chính Hãng VN/A",
-        "brand": "Apple",
+        "brand": "phukien",
         "uri": "tai-nghe-apple-airpods-2-hop-sac-co-day-vna-moi-nguyen-seal-chua-kich-hoat-1600933501",
         "price": 3990000,
         "salePrice": 2549000,
@@ -1932,7 +1932,7 @@
         "retailPrice": 3999000,
         "id": "33aea80e-c86c-4d8e-8da9-b3a2a1e2e270",
         "name": "Tai nghe Apple AirPods 3 Chính Hãng VN/A",
-        "brand": "Apple",
+        "brand": "phukien",
         "uri": "tai-nghe-apple-airpods-3-hop-sac-khong-day-chinh-hang-vna-1639042997",
         "price": 5489000,
         "salePrice": 3999000,
@@ -2008,7 +2008,7 @@
         "retailPrice": 4099000,
         "id": "83b14809-f3ed-4329-bda0-8429e72c81cb",
         "name": "Tai nghe Apple AirPods 3 Magsafe Charge Chính Hãng VN/A",
-        "brand": "Apple",
+        "brand": "phukien",
         "uri": "tai-nghe-apple-airpods-3-magsafe-charge-chinh-hang-vna-1673862423",
         "price": 5989000,
         "salePrice": 4099000,
@@ -2087,7 +2087,7 @@
         "retailPrice": 4349000,
         "id": "c621ae07-a553-42ed-9a91-269100050b28",
         "name": "Tai Nghe Apple AirPods Pro Magsafe Charge 2021 Chính Hãng VN/A",
-        "brand": "Apple",
+        "brand": "phukien",
         "uri": "tai-nghe-apple-airpods-pro-magsafe-charge-2021-chinh-hang-vna-1661162639",
         "price": 6839000,
         "salePrice": 4349000,
@@ -2164,7 +2164,7 @@
         "retailPrice": 2989000,
         "id": "8cae8cea-ae12-400d-a508-e75049602562",
         "name": "Bàn Di Chuột Apple Magic Trackpad 3",
-        "brand": "Apple",
+        "brand": "phukien",
         "uri": "ban-di-chuot-apple-magic-trackpad-3-1664787427",
         "price": 3990000,
         "salePrice": 2989000,
@@ -2245,7 +2245,7 @@
         "retailPrice": 1599000,
         "id": "7b5943b9-bd3f-4b07-be82-32f9b241d8e8",
         "name": "Chuột Không Dây Apple Magic Mouse 2021",
-        "brand": "Apple",
+        "brand": "phukien",
         "uri": "chuot-khong-day-apple-magic-mouse-2021-1660808123",
         "price": 2989000,
         "salePrice": 1599000,
@@ -2316,7 +2316,7 @@
         "retailPrice": 439000,
         "id": "1adfd05b-7a1b-43ee-925b-0b36cf74cab7",
         "name": "Sạc Apple iPhone 20W Type-C Chính Hãng",
-        "brand": "Apple",
+        "brand": "phukien",
         "uri": "sac-apple-iphone-20w-type-c-hang-chinh-hang-1604028726",
         "price": 689000,
         "salePrice": 439000,
@@ -2380,7 +2380,7 @@
         "retailPrice": 249000,
         "id": "3b735e38-22b3-4df3-bb9b-8183dbc7d31b",
         "name": "Cáp Sạc USB-C To Lightning Cho iPhone/ iPad Apple (Hàng Chính Hãng)",
-        "brand": "Apple",
+        "brand": "phukien",
         "uri": "cap-sac-usb-c-to-lightning-cho-iphone-ipad-apple-hang-chinh-hang-1572581744",
         "price": 600000,
         "salePrice": 249000,
@@ -2444,7 +2444,7 @@
             "retailPrice": 219000,
             "id": "886153f5-41d9-4baf-9d8d-bdee16d48d15",
             "name": "Dây Cáp Chuyển Đổi Lightning Sang 3.5mm Apple MMX62 (Hàng Chính Hãng)",
-            "brand": "Apple",
+            "brand": "phukien",
             "uri": "day-cap-chuyen-doi-lightning-sang-35mm-apple-mmx62-hang-chinh-hang-1545907290",
             "price": 349000,
             "salePrice": 219000,
@@ -2525,7 +2525,7 @@
               "5": 2,
               "total": 2
             },
-            "brand": "Apple",
+            "brand": "mac",
             "metadata": {
               "title": "MacBook Air 2019 13 Inch Core i5 8GB | 128GB SSD Cũ 99% (MVFM2, MVFH2, MVFK2) | Giá rẻ có trả góp 0%",
               "buyButton": {
@@ -2567,7 +2567,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "APPLE",
+        "brand": "mac",
         "metadata": {
             "title": "Mac Mini 2023 Chip M2 8C | 10C GPU |  8GB RAM | 256GB SSD | Uy Tín 100%, Giá Hấp Dẫn",
             "buyButton": {
@@ -2609,7 +2609,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "Macbook Air 2018 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MREF2) | Trả Góp 0%, Giá Tốt 2022",
             "buyButton": {
@@ -2651,7 +2651,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Air 2019 13 Inch Core i5 8GB | 256GB SSD Cũ 99% (MVFN2) | Dùng thử 168H miễn phí, Trả Góp 0%",
             "buyButton": {
@@ -2694,7 +2694,7 @@
             "5": 1,
             "total": 1
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MGN63 - MacBook Air 2020 13 Inch Apple M1 8GB/256GB Likenew - Fullbox | Thu cũ đổi mới lên đời không mất phí",
             "buyButton": {
@@ -2737,7 +2737,7 @@
             "5": 0,
             "total": 1
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Pro 2019 13 Inch Core i5 8GB | 128GB SSD Cũ 99% (MUHN2, MUHQ2) | Giá tiết kiệm. Bảo hành 6 tháng",
             "buyButton": {
@@ -2780,7 +2780,7 @@
             "5": 19,
             "total": 21
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Air 2020 13 Inch Chip M1 8GB | 256GB SSD Chính Hãng (MGN93, MGN63, MGND3) | Cấu hình mạnh, Giá hấp dẫn",
             "buyButton": {
@@ -2823,7 +2823,7 @@
             "5": 1,
             "total": 1
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Pro 2019 13\"  Core i5 8GB | 256GB SSD Cũ 99% (MUHP2) | Chất lượng chuẩn như mới, Giá hấp dẫn",
             "buyButton": {
@@ -2865,7 +2865,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "APPLE",
+        "brand": "mac",
         "metadata": {
             "title": "Mac Mini 2023 Chip M2 8C | 10C GPU |  8GB RAM | 512GB SSD | Uy Tín 100%, Giá Hấp Dẫn",
             "buyButton": {
@@ -2907,7 +2907,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Pro 2020 13 Inch Chip M1 8GB | 256GB SSD Cũ 99% (MYD82, MYDA2) | Chất Lượng 100%, Giá Ưu Đãi",
             "buyButton": {
@@ -2950,7 +2950,7 @@
             "5": 2,
             "total": 2
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Air 2020 13 Inch Chip M1 8GB | 512GB SSD Chính Hãng (MGN73, MGNA3, MGNE3) | Giá bán tốt nhất thị trường ",
             "buyButton": {
@@ -2992,7 +2992,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Air 2022 13 Inch Chip M2 8GB | 256GB SSD Likenew - Fullbox (MLXY3, MLXW3, MLY13, MLY33) | Cấu Hình Mạnh Mẽ, Giá Rẻ Trầm Trồ",
             "buyButton": {
@@ -3034,7 +3034,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Air 2020 13 Inch Core i5 8GB | 512GB SSD Cũ 99% (MVH52, MVH22) | Giá Tốt 2022, Chất Lượng 100%",
             "buyButton": {
@@ -3077,7 +3077,7 @@
             "5": 16,
             "total": 19
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Air 2022 13\" Chip M2 8GB | 256GB SSD Chính Hãng (MLXY3, MLXW3, MLY13, MLY33) | Cấu Hình Mạnh Mẽ, Giá Rẻ Trầm Trồ",
             "buyButton": {
@@ -3119,7 +3119,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Pro 2020 13 Inch Chip M1 8GB | 512GB SSD Cũ 99% (MYD92, MYDC2) | Bảo hành chính hãng Apple, Hỗ trợ trả góp 0%",
             "buyButton": {
@@ -3161,7 +3161,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Pro 2022 13\" Chip M2 8GB | 256GB SSD Likenew - Fullbox (MNEH3, MNEP3) | Cấu Hình Mạnh Mẽ, Giá Rẻ Trầm Trồ",
             "buyButton": {
@@ -3203,7 +3203,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "iMac 2021 M1 24 inch Retina 4.5K 7GPU/ 8G/ 256GB SSD Chính Hãng | Trả góp xét duyệt nhanh",
             "buyButton": {
@@ -3246,7 +3246,7 @@
             "5": 18,
             "total": 18
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Pro 2020 13 Inch Chip M1 8GB | 256GB SSD Chính Hãng (MYD82, MYDA2) | Nguyên seal chưa active, Giá cực tốt",
             "buyButton": {
@@ -3289,7 +3289,7 @@
             "4": 0,
             "5": 0
         },
-        "brand": "Apple",
+        "brand": "mac",
         "metadata": {
             "title": "MacBook Pro 2020 13 Inch Chip M1 16GB | 256GB SSD Cũ 99% (MYD82O, MYDA2O) | Chất Lượng 100%, Giá Ưu Đãi",
             "buyButton": {
@@ -3332,7 +3332,7 @@
               "5": 1,
               "total": 1
             },
-            "brand": "Apple",
+            "brand": "mac",
             "metadata": {
               "title": "MacBook Pro 2020 13 Inch Chip M1 8GB | 512GB SSD Chính Hãng (MYD92, MYDC2) | Bảo hành chính hãng Apple, Hỗ trợ trả góp 0%",
               "buyButton": {

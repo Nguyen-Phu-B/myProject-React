@@ -75,7 +75,7 @@ export const dataNav = [
     },
     {
         title: "Watch",
-        href: "watch",
+        href: "apw",
         subnav: [
             {
                 titleSub: "Apple Watch Ultra",
@@ -101,7 +101,7 @@ export const dataNav = [
     },
     {
         title: "Âm thanh",
-        href: "sounds",
+        href: "phukien",
         subnav: [
             {
                 titleSub: "AirPod",

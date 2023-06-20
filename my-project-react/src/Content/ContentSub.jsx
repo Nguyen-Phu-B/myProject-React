@@ -44,7 +44,7 @@ const ContentSub = ({
             <div className="content">
                 <div className="box-header">
                     <a
-                        href={"?" + tittle}
+                        href={"?" + keyData}
                         onClick={(e) => onClickTittle(e, contentKey)}
                     >
                         <h2>{tittle}</h2>
