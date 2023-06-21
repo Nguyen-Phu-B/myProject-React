@@ -10,7 +10,7 @@ const RenderProduct = ({ item, itemSub, classBox = "" }) => {
                 </a>
             </div>
             <div className="box-title">
-                <a href="" title={""}>
+                <a href="" title={item.name + " " + itemSub?.name}>
                     {item.name + " " + itemSub?.name}
                 </a>
             </div>

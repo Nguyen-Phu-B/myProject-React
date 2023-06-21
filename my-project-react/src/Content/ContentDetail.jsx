@@ -49,65 +49,65 @@ const ContentDetail = ({ prUrl }) => {
     return keyData == "mac" ? (
         <>
             <div className="content-product">
-                <div class="product-details-page">
-                    <div class="page-body">
-                        <div class="gallery">
-                            <div class="picture">
+                <div className="product-details-page">
+                    <div className="page-body">
+                        <div className="gallery">
+                            <div className="picture">
                                 <img src={productDetail?.productPhoto} alt="" />
                             </div>
                         </div>
-                        <div class="overview">
-                            <div class="wrapper-info">
-                                <div class="product-name">
+                        <div className="overview">
+                            <div className="wrapper-info">
+                                <div className="product-name">
                                     {productDetail?.name}
                                 </div>
-                                <div class="prices">
-                                    <div class="price-actual">
+                                <div className="prices">
+                                    <div className="price-actual">
                                         {productDetail?.retailPrice.toLocaleString()}
                                     </div>
-                                    <div class="price-old">
+                                    <div className="price-old">
                                         {productDetail?.price.toLocaleString()}
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="attributes">
-                                <div class="product-attribute">
-                                    <div class="product-attribute-label">
+                            <div className="attributes">
+                                <div className="product-attribute">
+                                    <div className="product-attribute-label">
                                         Màu sắc
                                     </div>
-                                    <div class="product-attribute-input"></div>
+                                    <div className="product-attribute-input"></div>
                                 </div>
                             </div>
-                            <div class="add-cart">
-                                <a href="" class="add-to-cart-panel">
+                            <div className="add-cart">
+                                <a href="" className="add-to-cart-panel">
                                     MUA NGAY
                                 </a>
                             </div>
-                            <div class="product-policy">
-                                <div class="prd-policy">
-                                    <ul class="fa-ul">
+                            <div className="product-policy">
+                                <div className="prd-policy">
+                                    <ul className="fa-ul">
                                         <li>
-                                            <span class="fa-li">
-                                                <i class="fa-solid fa-circle-check"></i>
+                                            <span className="fa-li">
+                                                <i className="fa-solid fa-circle-check"></i>
                                             </span>
                                             Hư gì đổi nấy 12 tháng
                                         </li>
                                         <li>
-                                            <span class="fa-li">
-                                                <i class="fa-solid fa-circle-check"></i>
+                                            <span className="fa-li">
+                                                <i className="fa-solid fa-circle-check"></i>
                                             </span>
                                             Bảo hành chính hãng 1 năm
                                         </li>
                                         <li>
-                                            <span class="fa-li">
-                                                <i class="fa-solid fa-circle-check"></i>
+                                            <span className="fa-li">
+                                                <i className="fa-solid fa-circle-check"></i>
                                             </span>
                                             Giao hàng nhanh toàn quốc
                                         </li>
                                         <li>
-                                            <span class="fa-li">
-                                                <i class="fa-solid fa-circle-check"></i>
+                                            <span className="fa-li">
+                                                <i className="fa-solid fa-circle-check"></i>
                                             </span>
                                             Gọi đặt mua 1900 6626 (7:30 - 22:00)
                                         </li>
@@ -122,65 +122,84 @@ const ContentDetail = ({ prUrl }) => {
     ) : (
         <>
             <div className="content-product">
-                <div class="product-details-page">
-                    <div class="page-body">
-                        <div class="gallery">
-                            <div class="picture">
+                <div className="product-details-page">
+                    <div className="page-body">
+                        <div className="gallery">
+                            <div className="picture">
                                 <img src={productDetail?.productPhoto} alt="" />
                             </div>
                         </div>
-                        <div class="overview">
-                            <div class="wrapper-info">
-                                <div class="product-name">
+                        <div className="overview">
+                            <div className="wrapper-info">
+                                <div className="product-name">
                                     {productDetail?.name}
                                 </div>
-                                <div class="prices">
-                                    <div class="price-actual">
+                                <div className="prices">
+                                    <div className="price-actual">
                                         {productDetail?.retailPrice.toLocaleString()}
                                     </div>
-                                    <div class="price-old">
+                                    <div className="price-old">
                                         {productDetail?.price.toLocaleString()}
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="attributes">
-                                <div class="product-attribute">
-                                    <div class="product-attribute-label">
+                            <div className="attributes">
+                                <div className="product-attribute">
+                                    <div className="product-attribute-label">
                                         Màu sắc
                                     </div>
-                                    <div class="product-attribute-input"></div>
+                                    <div className="product-attribute-input">
+                                        {productDetail?.pOptions.map(
+                                            (item, index) => {
+                                                return item.name == "Vàng" ? (
+                                                    <label class="attribute-color-gold">
+                                                        <input
+                                                            type="radio"
+                                                            name="color_mac"
+                                                            value={index}
+                                                            title={item.name}
+                                                            checked
+                                                        />
+                                                        <div></div>
+                                                    </label>
+                                                ) : (
+                                                    ""
+                                                );
+                                            }
+                                        )}
+                                    </div>
                                 </div>
                             </div>
-                            <div class="add-cart">
-                                <a href="" class="add-to-cart-panel">
+                            <div className="add-cart">
+                                <a href="" className="add-to-cart-panel">
                                     MUA NGAY
                                 </a>
                             </div>
-                            <div class="product-policy">
-                                <div class="prd-policy">
-                                    <ul class="fa-ul">
+                            <div className="product-policy">
+                                <div className="prd-policy">
+                                    <ul className="fa-ul">
                                         <li>
-                                            <span class="fa-li">
-                                                <i class="fa-solid fa-circle-check"></i>
+                                            <span className="fa-li">
+                                                <i className="fa-solid fa-circle-check"></i>
                                             </span>
                                             Hư gì đổi nấy 12 tháng
                                         </li>
                                         <li>
-                                            <span class="fa-li">
-                                                <i class="fa-solid fa-circle-check"></i>
+                                            <span className="fa-li">
+                                                <i className="fa-solid fa-circle-check"></i>
                                             </span>
                                             Bảo hành chính hãng 1 năm
                                         </li>
                                         <li>
-                                            <span class="fa-li">
-                                                <i class="fa-solid fa-circle-check"></i>
+                                            <span className="fa-li">
+                                                <i className="fa-solid fa-circle-check"></i>
                                             </span>
                                             Giao hàng nhanh toàn quốc
                                         </li>
                                         <li>
-                                            <span class="fa-li">
-                                                <i class="fa-solid fa-circle-check"></i>
+                                            <span className="fa-li">
+                                                <i className="fa-solid fa-circle-check"></i>
                                             </span>
                                             Gọi đặt mua 1900 6626 (7:30 - 22:00)
                                         </li>
