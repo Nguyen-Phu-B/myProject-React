@@ -7,7 +7,7 @@ const Content = () => {
     const [keyContent, setKeyContent] = useState("");
 
     let url = window.location.href;
-    let splitUrl = url.split("?")[1];
+    let splitUrl = url.split("/")[1];
 
     useEffect(() => {
         setKeyContent(splitUrl);
@@ -15,6 +15,8 @@ const Content = () => {
 
     const handleClickTittle = (e, prKey) => {
         // e.preventDefault();
+        console.log(url);
+        console.log(keyContent);
         window.scrollTo(0, 0);
     };
 

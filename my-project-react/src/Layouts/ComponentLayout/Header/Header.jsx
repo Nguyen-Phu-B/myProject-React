@@ -1,19 +1,19 @@
-// import React from "react";
-import NavMenu from "../Components/NavMenu";
-import "../Header/cssHeader.css";
+import "./Header.scss";
+import NavMenu from "./NavMenu";
+import { Link } from "react-router-dom";
 
 const Header = () => {
     return (
         <header className="header">
             <div className="header-container">
                 <div className="header-logo">
-                    <a href="index.html">
+                    <Link to="/">
                         <img
                             className="header-img"
                             src="https://shopdunk.com/images/thumbs/0012445_Logo_ShopDunk.png"
                             alt=""
                         />
-                    </a>
+                    </Link>
                 </div>
 
                 <div className="header-menu">
@@ -22,33 +22,35 @@ const Header = () => {
 
                 <div className="header-wrapper">
                     <div className="header-search">
-                        <a href="#">
+                        <Link to="#">
                             <i className="fa-solid fa-magnifying-glass fa-xl"></i>
-                        </a>
+                        </Link>
                     </div>
                     <div className="header-bagshop">
-                        <a href="bagshop.html">
+                        <Link to="bagshop.html">
                             <i className="fa-solid fa-bag-shopping fa-xl"></i>
                             <span className="cal-item" id="cal_items">
                                 0
                             </span>
-                        </a>
+                        </Link>
                     </div>
                     <div className="header-user">
-                        <a href="">
+                        <Link to="">
                             <i className="fa-solid fa-user fa-xl"></i>
                             <ul className="subnav-user">
                                 <li>
-                                    <a href="register.html">Tạo tài khoản</a>
+                                    <Link to="register.html">
+                                        Tạo tài khoản
+                                    </Link>
                                 </li>
                                 <li>
-                                    <a href="login.html">Đăng nhập</a>
+                                    <Link to="login.html">Đăng nhập</Link>
                                 </li>
                                 <li>
-                                    <a href="">Ngôn ngữ</a>
+                                    <Link to="">Ngôn ngữ</Link>
                                 </li>
                             </ul>
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </div>

@@ -8,7 +8,7 @@ const ContentDetail = ({ prUrl }) => {
     const [product, setProduct] = useState([]);
 
     let keyData = dataProduct.split("/")[1];
-    let idProduct = dataProduct.split("?")[0].split("/")[0];
+    let idProduct = dataProduct.split("/")[0].split("/")[0];
 
     useEffect(() => {
         setProduct(handleGetListData(keyData));

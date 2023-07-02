@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { dataNav } from "../Mocks/dataNav";
+import { dataNav } from "../../../Mocks/dataNav";
+import { Link } from "react-router-dom";
 
 const NavMenu = () => {
     const [listNav, setListNav] = useState(dataNav);
@@ -9,14 +10,23 @@ const NavMenu = () => {
             {listNav.map((item, index) => {
                 return (
                     <li key={index}>
-                        <a href={"?" + item.href}>{item.title}</a>
+                        <Link to={"/list?keyproduct=" + item.href}>
+                            {item.title}
+                        </Link>
                         <ul className="subnav">
                             {item.subnav.map((subItem, subIndex) => {
                                 return (
                                     <li key={subIndex}>
-                                        <a href={"?" + subItem.href}>
+                                        <Link
+                                            to={
+                                                "/list?keyproduct=" +
+                                                item.href +
+                                                "&keyproductsub=" +
+                                                subItem.href
+                                            }
+                                        >
                                             {subItem.titleSub}
-                                        </a>
+                                        </Link>
                                     </li>
                                 );
                             })}

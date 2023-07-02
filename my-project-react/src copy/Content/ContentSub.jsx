@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import RenderProduct from "../Components/RenderProduct";
 import dataProductDf from "../Mocks/apiDTGK.json";
+import { Link } from "react-router-dom";
 
 const ContentSub = ({
     classLimit,
@@ -43,12 +44,12 @@ const ContentSub = ({
         <>
             <div className="content">
                 <div className="box-header">
-                    <a
-                        href={"?" + keyData}
+                    <Link
+                        to={"/" + keyData}
                         onClick={(e) => onClickTittle(e, contentKey)}
                     >
                         <h2>{tittle}</h2>
-                    </a>
+                    </Link>
                 </div>
                 <div className="box-booth">
                     {keyData == "mac"

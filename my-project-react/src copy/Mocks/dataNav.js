@@ -46,10 +46,6 @@ export const dataNav = [
                 href: "ipad10",
             },
             {
-                titleSub: "iPad 9",
-                href: "ipad9",
-            },
-            {
                 titleSub: "iPad Mini",
                 href: "ipadmini",
             },
@@ -57,7 +53,7 @@ export const dataNav = [
     },
     {
         title: "Mac",
-        href: "macbook",
+        href: "mac",
         subnav: [
             {
                 titleSub: "MacBook Pro",
@@ -79,7 +75,7 @@ export const dataNav = [
     },
     {
         title: "Watch",
-        href: "applewatch",
+        href: "apw",
         subnav: [
             {
                 titleSub: "Apple Watch Ultra",
