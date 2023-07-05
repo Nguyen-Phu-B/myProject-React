@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import RenderProducts from "../ComponentPage/RenderProduct/RenderProducts";
 import dataDef from "../../Mocks/apiDTGK.json";
@@ -9,9 +8,8 @@ const ListDetails = () => {
     const keyproducts = searchParams.get("keyproduct");
     const keyproductSub = searchParams.get("keyproductsub");
 
-    console.log(keyproducts);
-    console.log(keyproductSub);
-    // console.log("sss", dataDef[keyproducts]["pOptions"]);
+    // console.log(keyproducts);
+    // console.log(keyproductSub);
 
     return (
         <>
@@ -34,62 +32,6 @@ const ListDetails = () => {
             )}
         </>
     );
-
-    // if (keyproducts == "iphone") {
-    //     return (
-    //         <>
-    //             <RenderProducts
-    //                 listData={dataDef.iphone}
-    //                 title={"iphone"}
-    //                 keyRender="list"
-    //             />
-    //         </>
-    //     );
-    // }
-    // if (keyproducts == "ipad") {
-    //     return (
-    //         <>
-    //             <RenderProducts
-    //                 listData={dataDef.ipad}
-    //                 title={"ipad"}
-    //                 keyRender="list"
-    //             />
-    //         </>
-    //     );
-    // }
-    // if (keyproducts == "macbook") {
-    //     return (
-    //         <>
-    //             <RenderProducts
-    //                 listData={dataDef.mac}
-    //                 title={"macbook"}
-    //                 keyRender="list"
-    //             />
-    //         </>
-    //     );
-    // }
-    // if (keyproducts == "applewatch") {
-    //     return (
-    //         <>
-    //             <RenderProducts
-    //                 listData={dataDef.apw}
-    //                 title={"apple watch"}
-    //                 keyRender="list"
-    //             />
-    //         </>
-    //     );
-    // }
-    // if (keyproducts == "phukien") {
-    //     return (
-    //         <>
-    //             <RenderProducts
-    //                 listData={dataDef.phukien}
-    //                 title={"phụ kiện"}
-    //                 keyRender="list"
-    //             />
-    //         </>
-    //     );
-    // }
 };
 
 export default ListDetails;

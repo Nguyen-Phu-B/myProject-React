@@ -27,7 +27,7 @@ const Header = () => {
                         </Link>
                     </div>
                     <div className="header-bagshop">
-                        <Link to="bagshop.html">
+                        <Link to="/cart">
                             <i className="fa-solid fa-bag-shopping fa-xl"></i>
                             <span className="cal-item" id="cal_items">
                                 0

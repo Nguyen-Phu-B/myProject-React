@@ -127,7 +127,7 @@ export const dataNav = [
         subnav: [
             {
                 titleSub: "Sạc, Cáp",
-                href: "caple",
+                href: "powresub",
             },
             {
                 titleSub: "Ốp Lưng",
@@ -135,7 +135,7 @@ export const dataNav = [
             },
             {
                 titleSub: "Sạc Dự Phòng",
-                href: "powresub",
+                href: "powresubb",
             },
             {
                 titleSub: "Chuột, Bàn Phím",

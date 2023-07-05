@@ -1,5 +1,7 @@
+import RenderCart from "../ComponentPage/RenderCart/RenderCart";
+
 const Cart = () => {
-    return <h2>Cart Page</h2>;
+    return <RenderCart />;
 };
 
 export default Cart;

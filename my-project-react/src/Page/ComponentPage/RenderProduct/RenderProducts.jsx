@@ -1,17 +1,16 @@
-import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import "./RenderProducts.scss";
 
 const RenderProducts = ({ title, listData, keyRender }) => {
-    console.log(title);
-    console.log(listData);
+    // console.log(title);
+    // console.log(listData);
 
     window.scrollTo(0, 0);
 
     const navigate = useNavigate();
 
-    const handleClick = (event) => {
-        event.preventDefault();
+    const handleClickTitle = (e) => {
+        e.preventDefault();
 
         const newTitle = title
             ?.toLowerCase()
@@ -24,10 +23,23 @@ const RenderProducts = ({ title, listData, keyRender }) => {
         navigate(newUrl);
     };
 
+    const handleClickCard = (e, idpr) => {
+        e.preventDefault();
+        const newTitle = title
+            ?.toLowerCase()
+            .replace(/\s/g, "")
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "");
+        const newUrl = `/detail?keyproduct=${encodeURIComponent(
+            newTitle
+        )}&idproduct=${idpr}`;
+        navigate(newUrl);
+    };
+
     return (
         <div className="content">
             <div className="box-header">
-                <Link to="" onClick={handleClick}>
+                <Link to="" onClick={handleClickTitle}>
                     <h2>{title}</h2>
                 </Link>
             </div>
@@ -39,7 +51,12 @@ const RenderProducts = ({ title, listData, keyRender }) => {
                             return (
                                 <div className="box-product " key={itemSub.id}>
                                     <div className="box-img">
-                                        <Link to="/">
+                                        <Link
+                                            to=""
+                                            onClick={(e) =>
+                                                handleClickCard(e, itemSub.id)
+                                            }
+                                        >
                                             <img
                                                 src={itemSub?.images[0]}
                                                 alt={""}
@@ -48,7 +65,10 @@ const RenderProducts = ({ title, listData, keyRender }) => {
                                     </div>
                                     <div className="box-title">
                                         <Link
-                                            to="/"
+                                            to=""
+                                            onClick={(e) =>
+                                                handleClickCard(e, itemSub.id)
+                                            }
                                             title={
                                                 item.name + " " + itemSub.name
                                             }
@@ -85,7 +105,12 @@ const RenderProducts = ({ title, listData, keyRender }) => {
                         return (
                             <div className="box-product " key={item.id}>
                                 <div className="box-img">
-                                    <Link to="/">
+                                    <Link
+                                        to=""
+                                        onClick={(e) =>
+                                            handleClickCard(e, item.id)
+                                        }
+                                    >
                                         <img
                                             src={item?.productPhoto}
                                             alt={""}
@@ -93,7 +118,13 @@ const RenderProducts = ({ title, listData, keyRender }) => {
                                     </Link>
                                 </div>
                                 <div className="box-title">
-                                    <Link to="/" title={item.name}>
+                                    <Link
+                                        to=""
+                                        onClick={(e) =>
+                                            handleClickCard(e, item.id)
+                                        }
+                                        title={item.name}
+                                    >
                                         {item.name}
                                     </Link>
                                 </div>
@@ -106,12 +137,18 @@ const RenderProducts = ({ title, listData, keyRender }) => {
                                     </div>
                                 </div>
                                 <div className="btn-add-cart">
-                                    <Link className="box-add-cart" to="/">
+                                    <Link
+                                        className="box-add-cart"
+                                        to=""
+                                        onClick={(e) =>
+                                            handleClickCard(e, item.id)
+                                        }
+                                    >
                                         <div className="box-add-btn">
-                                            Add to cart
+                                            View More
                                         </div>
                                         <div className="box-icon">
-                                            <i className="fa-solid fa-cart-arrow-down fa-xl"></i>
+                                            <i className="fa-solid fa-angles-right fa-xl"></i>
                                         </div>
                                     </Link>
                                 </div>

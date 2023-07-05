@@ -4,13 +4,13 @@ import Cart from "../Page/Cart/Cart";
 import ListDetails from "../Page/ListDetails/ListDetail";
 
 // Layout
-import HeaderOnly from "../Layouts/HeaderOnly/HeaderOnly";
+import DetailLayout from "../Layouts/DetailProduct/DetailProduct";
 
 const publicRoutes = [
     { path: "/", component: Home },
-    { path: "/detail", component: DetailProduct, layout: HeaderOnly },
+    { path: "/detail", component: DetailProduct, layout: DetailLayout },
     { path: "/list", component: ListDetails },
-    { path: "/cart", component: Cart, layout: null },
+    { path: "/cart", component: Cart, layout: DetailLayout },
 ];
 
 const privateRoutes = [];
