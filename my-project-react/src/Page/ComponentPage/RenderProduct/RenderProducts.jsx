@@ -13,7 +13,7 @@ const RenderProducts = ({ title, listData, keyRender }) => {
         e.preventDefault();
 
         const newTitle = title
-            ?.toLowerCase()
+            .toLowerCase()
             .replace(/\s/g, "")
             .normalize("NFD")
             .replace(/[\u0300-\u036f]/g, "");
@@ -26,7 +26,7 @@ const RenderProducts = ({ title, listData, keyRender }) => {
     const handleClickCard = (e, idpr) => {
         e.preventDefault();
         const newTitle = title
-            ?.toLowerCase()
+            .toLowerCase()
             .replace(/\s/g, "")
             .normalize("NFD")
             .replace(/[\u0300-\u036f]/g, "");
@@ -46,7 +46,7 @@ const RenderProducts = ({ title, listData, keyRender }) => {
 
             {keyRender === "list" ? (
                 <div className={"box-booth box-wrap"}>
-                    {listData.map((item) => {
+                    {listData?.map((item) => {
                         return item.pOptions.map((itemSub) => {
                             return (
                                 <div className="box-product " key={itemSub.id}>
@@ -85,7 +85,10 @@ const RenderProducts = ({ title, listData, keyRender }) => {
                                         </div>
                                     </div>
                                     <div className="btn-add-cart">
-                                        <Link className="box-add-cart" to="/">
+                                        <Link
+                                            className="box-add-cart"
+                                            to="/cart"
+                                        >
                                             <div className="box-add-btn">
                                                 Add to cart
                                             </div>
@@ -101,7 +104,7 @@ const RenderProducts = ({ title, listData, keyRender }) => {
                 </div>
             ) : (
                 <div className={"box-booth"}>
-                    {listData.map((item) => {
+                    {listData?.map((item) => {
                         return (
                             <div className="box-product " key={item.id}>
                                 <div className="box-img">

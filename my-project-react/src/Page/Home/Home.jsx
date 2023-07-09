@@ -1,12 +1,12 @@
 import dataDef from "../../Mocks/apiDTGK.json";
 import RenderProducts from "../ComponentPage/RenderProduct/RenderProducts";
 
-const Home = ({ title, listData, onClick }) => {
+const Home = ({}) => {
     return (
         <>
             <RenderProducts title={"Iphone"} listData={dataDef.iphone} />
             <RenderProducts title={"Ipad"} listData={dataDef.ipad} />
-            <RenderProducts title={"MacBook"} listData={dataDef.macbook} />
+            <RenderProducts title={""} listData={dataDef.macbook} />
             <RenderProducts
                 title={"Apple Watch"}
                 listData={dataDef.applewatch}

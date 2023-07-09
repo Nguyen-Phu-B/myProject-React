@@ -46,8 +46,9 @@ const RenderDetailProduct = ({ dataRender }) => {
                                 <div className="product-name">
                                     {dataRender.name +
                                         " " +
-                                        (dataRender.pOptions[valueInput]
-                                            ?.name || "")}
+                                        (dataRender.pOptions[
+                                            valueInput
+                                        ]?.name.toUpperCase() || "")}
                                 </div>
                                 <div className="prices">
                                     <div className="price-actual">
@@ -93,7 +94,7 @@ const RenderDetailProduct = ({ dataRender }) => {
                                 </div>
                             </div>
                             <div className="add-cart">
-                                <Link to="/" className="add-to-cart-panel">
+                                <Link to="/cart" className="add-to-cart-panel">
                                     MUA NGAY
                                 </Link>
                             </div>

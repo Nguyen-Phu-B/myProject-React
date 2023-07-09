@@ -19,7 +19,7 @@ const DetailProduct = () => {
             }
 
             if (item.id === idPr) {
-                console.log("Match found");
+                // console.log("Match found");
                 found = true;
                 return true;
             } else if (item.pOptions) {
@@ -35,7 +35,7 @@ const DetailProduct = () => {
 
                 return filteredItemSub.length > 0;
             } else {
-                console.log("No match found");
+                // console.log("No match found");
                 return false;
             }
         });
